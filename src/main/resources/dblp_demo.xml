@@ -1,0 +1,2956 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE dblp SYSTEM "dblp.dtd">
+<dblp>
+<article mdate="2002-01-03" key="journals/ac/Gotlieb60">
+<author>C. C. Gotlieb</author>
+<title>General-Purpose Programming for Business Applications.</title>
+<pages>1-42</pages>
+<year>1960</year>
+<volume>1</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac1.html#Gotlieb60</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Spandorfer68">
+<author>L. M. Spandorfer</author>
+<title>Large Scale Integration - an Appraisal.</title>
+<pages>179-238</pages>
+<year>1968</year>
+<volume>9</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac9.html#Spandorfer68</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Muroga91">
+<author>Saburo Muroga</author>
+<title>Computer-Aided Logic Synthesis for VLSI Chips.</title>
+<pages>1-103</pages>
+<year>1991</year>
+<volume>32</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac32.html#Muroga91</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Good65">
+<author>Irving John Good</author>
+<title>Speculations Concerning the First Ultraintelligent Machine.</title>
+<pages>31-88</pages>
+<year>1965</year>
+<volume>6</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac6.html#Good65</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Murtha66">
+<author>John C. Murtha</author>
+<title>Highly Parallel Information Processing Systems.</title>
+<pages>1-116</pages>
+<year>1966</year>
+<volume>7</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac7.html#Murtha66</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/RamamoorthyPGYB87">
+<author>C. V. Ramamoorthy</author>
+<author>Atul Prakash</author>
+<author>Vijay K. Garg</author>
+<author>Tsuneo Yamaura</author>
+<author>Anupam Bhide</author>
+<title>Issues in the Development of Large, Distributed, and Reliable Software.</title>
+<pages>393-443</pages>
+<year>1987</year>
+<volume>26</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac26.html#RamamoorthyPGYB87</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Hill71">
+<author>David R. Hill</author>
+<title>Man-Machine Interaction Using Speech.</title>
+<pages>165-230</pages>
+<year>1971</year>
+<volume>11</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac11.html#Hill71</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Dam66">
+<author>Andries van Dam</author>
+<title>Computer Driven Displays and Their Use in Man/Machine Interaction.</title>
+<pages>239-290</pages>
+<year>1966</year>
+<volume>7</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac7.html#Dam66</url>
+</article>
+<article mdate="2005-05-11" key="journals/ac/CheathamT76">
+<author>Thomas E. Cheatham Jr.</author>
+<author>Judy A. Townley</author>
+<title>A Look at Programming and Programming Systems.</title>
+<pages>45-76</pages>
+<year>1976</year>
+<volume>14</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac14.html#CheathamT76</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/PorterSV96">
+<author>Adam A. Porter</author>
+<author>Harvey P. Siy</author>
+<author>Lawrence G. Votta</author>
+<title>A Review of Software Inspections.</title>
+<pages>39-76</pages>
+<year>1996</year>
+<volume>42</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac42.html#PorterSV96</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Liu78">
+<author>Ming T. Liu</author>
+<title>Distributed Loop Computer Networks.</title>
+<pages>163-221</pages>
+<year>1978</year>
+<volume>17</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac17.html#Liu78</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Liu89">
+<author>Ming T. Liu</author>
+<title>Protocol Engineering.</title>
+<pages>79-195</pages>
+<year>1989</year>
+<volume>29</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac29.html#Liu89</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Liu96">
+<author>Ming T. Liu</author>
+<title>Network Interconnection and Protocol Conversion.</title>
+<pages>119-239</pages>
+<year>1996</year>
+<volume>42</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac42.html#Liu96</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Huskey64">
+<author>Harry D. Huskey</author>
+<title>An Introduction to Procedure-Oriented Languages.</title>
+<pages>349-377</pages>
+<year>1964</year>
+<volume>5</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac5.html#Huskey64</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Mamrak77">
+<author>Sandra A. Mamrak</author>
+<title>The Design and Development of Resource-Sharing Services in Computer Communications Networks: A Survey.</title>
+<pages>183-219</pages>
+<year>1977</year>
+<volume>16</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac16.html#Mamrak77</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Pfleeger97">
+<author>Shari Lawrence Pfleeger</author>
+<title>Experimentation in Software Engineering.</title>
+<pages>127-167</pages>
+<year>1997</year>
+<volume>44</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac44.html#Pfleeger97</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Hamlet95">
+<author>Richard G. Hamlet</author>
+<title>Software Quality, Software Process, and Software Testing.</title>
+<pages>191-229</pages>
+<year>1995</year>
+<volume>41</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac41.html#Hamlet95</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Toy87">
+<author>Wing N. Toy</author>
+<title>Fault-Tolerant Computing.</title>
+<pages>201-279</pages>
+<year>1987</year>
+<volume>26</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac26.html#Toy87</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Curtin63">
+<author>William A. Curtin</author>
+<title>Multiple Computer Systems.</title>
+<pages>245-303</pages>
+<year>1963</year>
+<volume>4</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac4.html#Curtin63</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/DeCarlo70">
+<author>Charles DeCarlo</author>
+<title>Humanism, Technology, and Language.</title>
+<pages>1-6</pages>
+<year>1970</year>
+<volume>10</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac10.html#DeCarlo70</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Skramstad62">
+<author>Harold F. Skramstad</author>
+<title>Combined Analog-Digital Techniques in Simulation.</title>
+<pages>275-298</pages>
+<year>1962</year>
+<volume>3</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac3.html#Skramstad62</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/ChandrasekaranM83">
+<author>B. Chandrasekaran</author>
+<author>Sanjay Mittal</author>
+<title>Conceptual Representation of Medical Knowledge for Diagnosis by Computer: MDX and Related Systems.</title>
+<pages>217-293</pages>
+<year>1983</year>
+<volume>22</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac22.html#ChandrasekaranM83</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Poppelbaum68">
+<author>W. J. Poppelbaum</author>
+<title>What Next in Computer Technology?</title>
+<pages>1-21</pages>
+<year>1968</year>
+<volume>9</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac9.html#Poppelbaum68</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Poppelbaum76">
+<author>W. J. Poppelbaum</author>
+<title>Statistical Processors.</title>
+<pages>187-230</pages>
+<year>1976</year>
+<volume>14</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac14.html#Poppelbaum76</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Klir93">
+<author>George J. Klir</author>
+<title>Developments in Uncertainty-Based Information.</title>
+<pages>255-332</pages>
+<year>1993</year>
+<volume>36</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac36.html#Klir93</url>
+</article>
+<article mdate="2005-05-25" key="journals/ac/HursonB91">
+<author>Ali R. Hurson</author>
+<author>M. W. Bright</author>
+<title>Multidatabase Systems: An Advanced Concept in Handling Distributed Data.</title>
+<pages>149-200</pages>
+<year>1991</year>
+<volume>32</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac32.html#HursonB91</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/GrahamH76">
+<author>Susan L. Graham</author>
+<author>Michael A. Harrison</author>
+<title>Parsing of General Context-Free Languages.</title>
+<pages>77-185</pages>
+<year>1976</year>
+<volume>14</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac14.html#GrahamH76</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Prewitt72">
+<author>Judith M. S. Prewitt</author>
+<title>Parametric and Nonparametric Recognition by Computer: An Application to Leukocyte Image Processing.</title>
+<pages>285-414</pages>
+<year>1972</year>
+<volume>12</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac12.html#Prewitt72</url>
+</article>
+<article mdate="2005-05-25" key="journals/ac/LeeH93">
+<author>Ben Lee</author>
+<author>Ali R. Hurson</author>
+<title>Issues in Dataflow Computing.</title>
+<pages>285-333</pages>
+<year>1993</year>
+<volume>37</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac37.html#LeeH93</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/DeFantiB91">
+<author>Thomas A. DeFanti</author>
+<author>Maxine D. Brown</author>
+<title>Visualization in Scientific Computing.</title>
+<pages>247-305</pages>
+<year>1991</year>
+<volume>33</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac33.html#DeFantiB91</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Kuck76">
+<author>David J. Kuck</author>
+<title>Parallel Processing of Ordinary Programs.</title>
+<pages>119-179</pages>
+<year>1976</year>
+<volume>15</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac15.html#Kuck76</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Kung80">
+<author>H. T. Kung</author>
+<title>The Structure of Parallel Algorithms.</title>
+<pages>65-112</pages>
+<year>1980</year>
+<volume>19</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac19.html#Kung80</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/KieburtzN71">
+<author>Richard B. Kieburtz</author>
+<author>E. E. Newhall</author>
+<title>Balanced Magnetic Circuits for Logic and Memory Devices.</title>
+<pages>231-317</pages>
+<year>1971</year>
+<volume>11</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac11.html#KieburtzN71</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Hsiao80">
+<author>David K. Hsiao</author>
+<title>Data Base Computers.</title>
+<pages>1-64</pages>
+<year>1980</year>
+<volume>19</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac19.html#Hsiao80</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Long94">
+<author>John M. Long</author>
+<title>Computer-Based Medical Systems.</title>
+<pages>145-195</pages>
+<year>1994</year>
+<volume>38</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac38.html#Long94</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/BerztissT83">
+<author>Alfs T. Berztiss</author>
+<author>Satish Thatte</author>
+<title>Specification and Implementation of Abstract Data Types.</title>
+<pages>295-353</pages>
+<year>1983</year>
+<volume>22</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac22.html#BerztissT83</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Abrahams68">
+<author>Paul W. Abrahams</author>
+<title>Symbol Manipulation Languages.</title>
+<pages>51-111</pages>
+<year>1968</year>
+<volume>9</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac9.html#Abrahams68</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Debons71">
+<author>Anthony Debons</author>
+<title>Command and Control: Technology and Social Impact.</title>
+<pages>319-390</pages>
+<year>1971</year>
+<volume>11</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac11.html#Debons71</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Debons90">
+<author>Anthony Debons</author>
+<title>Foundations of Information Science.</title>
+<pages>325-378</pages>
+<year>1990</year>
+<volume>31</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac31.html#Debons90</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Vemuri93">
+<author>V. Vemuri</author>
+<title>Artificial Neural Networks in Control Applications.</title>
+<pages>203-254</pages>
+<year>1993</year>
+<volume>36</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac36.html#Vemuri93</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Stavroudis64">
+<author>Orestes N. Stavroudis</author>
+<title>Automatic Optical Design.</title>
+<pages>227-255</pages>
+<year>1964</year>
+<volume>5</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac5.html#Stavroudis64</url>
+</article>
+<article mdate="2002-03-13" key="journals/ac/RamanP97">
+<author>Srilata Raman</author>
+<author>Lalit M. Patnaik</author>
+<title>Optimization Via Evolutionary Processes.</title>
+<pages>155-196</pages>
+<year>1997</year>
+<volume>45</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac45.html#RamanP97</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Muck94">
+<author>Thomas A. M&uuml;ck</author>
+<title>Active Databases: Concepts and Design Support.</title>
+<pages>107-189</pages>
+<year>1994</year>
+<volume>39</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac39.html#Muck94</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/KothariO93">
+<author>Suresh C. Kothari</author>
+<author>Heekuck Oh</author>
+<title>Neural Networks for Pattern Recognition.</title>
+<pages>119-166</pages>
+<year>1993</year>
+<volume>37</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac37.html#KothariO93</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/CarneyB95">
+<author>David J. Carney</author>
+<author>Alan W. Brown</author>
+<title>On the Necessary Conditions for the Composition of Integrated Software Engineering Environments.</title>
+<pages>157-189</pages>
+<year>1995</year>
+<volume>41</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac41.html#CarneyB95</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Conrad90">
+<author>Michael Conrad</author>
+<title>Molecular Computing.</title>
+<pages>235-324</pages>
+<year>1990</year>
+<volume>31</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac31.html#Conrad90</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Ahlberg70">
+<author>J. H. Ahlberg</author>
+<title>Spline Approximation and Computer-Aided Design.</title>
+<pages>275-289</pages>
+<year>1970</year>
+<volume>10</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac10.html#Ahlberg70</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/ConteH95">
+<author>Thomas M. Conte</author>
+<author>Wen-mei W. Hwu</author>
+<title>Advances in Benchmarking Techniques: New Standards and Quantitative Metrics.</title>
+<pages>231-253</pages>
+<year>1995</year>
+<volume>41</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac41.html#ConteH95</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Narasimhan67">
+<author>R. Narasimhan</author>
+<title>Programming Languages and Computers: A Unified Metatheory.</title>
+<pages>189-245</pages>
+<year>1967</year>
+<volume>8</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac8.html#Narasimhan67</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Pask64">
+<author>Gordon Pask</author>
+<title>A Discussion of Artificial Intelligence and Self-Organization.</title>
+<pages>109-226</pages>
+<year>1964</year>
+<volume>5</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac5.html#Pask64</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/DollasB95">
+<author>Apostolos Dollas</author>
+<author>J. D. Sterling Babcock</author>
+<title>Rapid Prototyping of Microelectronic Systems.</title>
+<pages>65-125</pages>
+<year>1995</year>
+<volume>40</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac40.html#DollasB95</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/White87">
+<author>Lee J. White</author>
+<title>Software Testing and Verification.</title>
+<pages>335-391</pages>
+<year>1987</year>
+<volume>26</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac26.html#White87</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Otten71">
+<author>Klaus W. Otten</author>
+<title>Approaches to the Machine Recognition of Conversational Speech.</title>
+<pages>127-163</pages>
+<year>1971</year>
+<volume>11</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac11.html#Otten71</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Wickman65">
+<author>Charles R. Wickman</author>
+<title>Digital Training Devices.</title>
+<pages>89-130</pages>
+<year>1965</year>
+<volume>6</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac6.html#Wickman65</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Motschnig-PitrikM96">
+<author>Renate Motschnig-Pitrik</author>
+<author>Roland Mittermeir</author>
+<title>Language Features for the Interconnection of Software Components.</title>
+<pages>51-139</pages>
+<year>1996</year>
+<volume>43</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac43.html#Motschnig-PitrikM96</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Bargellini65">
+<author>Pier L. Bargellini</author>
+<title>Considerations on Man Versus Machine for Space Probing.</title>
+<pages>195-227</pages>
+<year>1965</year>
+<volume>6</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac6.html#Bargellini65</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/PuLC95">
+<author>Calton Pu</author>
+<author>Avraham Leff</author>
+<author>Shu-Wie F. Chen</author>
+<title>An Evolutionary Path for Transaction Processing Systems.</title>
+<pages>255-296</pages>
+<year>1995</year>
+<volume>41</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac41.html#PuLC95</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Roccaferrera72">
+<author>G. M. Ferrero di Roccaferrera</author>
+<title>Managers, Deterministic Models, and Computers.</title>
+<pages>37-72</pages>
+<year>1972</year>
+<volume>12</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac12.html#Roccaferrera72</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/McNaughton61">
+<author>Robert McNaughton</author>
+<title>The Theory of Automata, a Survey.</title>
+<pages>379-421</pages>
+<year>1961</year>
+<volume>2</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac2.html#McNaughton61</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Pyke67">
+<author>Thomas N. Pyke Jr.</author>
+<title>Time-Shared Computer Systems.</title>
+<pages>1-45</pages>
+<year>1967</year>
+<volume>8</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac8.html#Pyke67</url>
+</article>
+<article mdate="2005-05-20" key="journals/ac/HursonMPES89">
+<author>Ali R. Hurson</author>
+<author>Les L. Miller</author>
+<author>Simin H. Pakzad</author>
+<author>Margaret H. Eich</author>
+<author>Behrooz Shirazi</author>
+<title>Parallel Architectures for Database Systems.</title>
+<pages>107-151</pages>
+<year>1989</year>
+<volume>28</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac28.html#HursonMPES89</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Rice76">
+<author>John R. Rice</author>
+<title>The Algorithm Selection Problem.</title>
+<pages>65-118</pages>
+<year>1976</year>
+<volume>15</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac15.html#Rice76</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Hauser97">
+<author>Ralf C. Hauser</author>
+<title>Control of Information Distribution and Access.</title>
+<pages>219-283</pages>
+<year>1997</year>
+<volume>44</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac44.html#Hauser97</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Goodman79">
+<author>Seymour E. Goodman</author>
+<title>Software in the Soviet Union: Progress and Problems.</title>
+<pages>231-287</pages>
+<year>1979</year>
+<volume>18</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac18.html#Goodman79</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Rush82">
+<author>James E. Rush</author>
+<title>Library Automation Systems and Networks.</title>
+<pages>333-422</pages>
+<year>1982</year>
+<volume>21</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac21.html#Rush82</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Carroll89">
+<author>John M. Carroll</author>
+<title>Evaluation, Description and Invention: Paradigms for Human-Computer Interaction.</title>
+<pages>47-77</pages>
+<year>1989</year>
+<volume>29</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac29.html#Carroll89</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/FrantaJKM81">
+<author>William R. Franta</author>
+<author>E. Douglas Jensen</author>
+<author>Richard Y. Kain</author>
+<author>George D. Marshall</author>
+<title>Real-Time Distributed Computer Systems.</title>
+<pages>39-82</pages>
+<year>1981</year>
+<volume>20</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac20.html#FrantaJKM81</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Millen89">
+<author>Jonathan K. Millen</author>
+<title>Models of Multilevel Computer Security.</title>
+<pages>1-45</pages>
+<year>1989</year>
+<volume>29</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac29.html#Millen89</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Miller88">
+<author>Stephen W. Miller</author>
+<title>A Reference Model for Mass Storage Systems.</title>
+<pages>157-210</pages>
+<year>1988</year>
+<volume>27</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac27.html#Miller88</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/BonczekHW84">
+<author>Robert H. Bonczek</author>
+<author>Clyde W. Holsapple</author>
+<author>Andrew B. Whinston</author>
+<title>Developments in Decision Support Systems.</title>
+<pages>141-175</pages>
+<year>1984</year>
+<volume>23</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac23.html#BonczekHW84</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/DePieroT96">
+<author>Fred W. DePiero</author>
+<author>Mohan M. Trivedi</author>
+<title>3-D Computer Vision Using Structured Light: Design, Calibration, and Implementation Issues.</title>
+<pages>243-278</pages>
+<year>1996</year>
+<volume>43</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac43.html#DePieroT96</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Anderson72">
+<author>James P. Anderson</author>
+<title>Information Security in a Multi-User Computer Environment.</title>
+<pages>1-36</pages>
+<year>1972</year>
+<volume>12</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac12.html#Anderson72</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Vetter97">
+<author>Ronald J. Vetter</author>
+<title>Asynchronous Transfer Mode: An Emerging Network Standard for High-Speed Communications.</title>
+<pages>285-330</pages>
+<year>1997</year>
+<volume>44</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac44.html#Vetter97</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/DavidaD90">
+<author>George I. Davida</author>
+<author>Yvo Desmedt</author>
+<title>Cryptography Based Data Security.</title>
+<pages>171-222</pages>
+<year>1990</year>
+<volume>30</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac30.html#DavidaD90</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Lubeck88">
+<author>Olaf M. Lubeck</author>
+<title>Supercomputer Performance: The Theory, Practice, and Results.</title>
+<pages>309-362</pages>
+<year>1988</year>
+<volume>27</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac27.html#Lubeck88</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Shoulders61">
+<author>Kenneth R. Shoulders</author>
+<title>Microelectronics Using Electron-Beam-Activated Machining Techniques.</title>
+<pages>135-293</pages>
+<year>1961</year>
+<volume>2</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac2.html#Shoulders61</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Turn77">
+<author>Rein Turn</author>
+<title>Privacy Protection in Information Systems.</title>
+<pages>221-335</pages>
+<year>1977</year>
+<volume>16</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac16.html#Turn77</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/ChenC78">
+<author>Tien Chi Chen</author>
+<author>Hsu Chang</author>
+<title>Magnetic Bubble Memory and Logic.</title>
+<pages>223-282</pages>
+<year>1978</year>
+<volume>17</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac17.html#ChenC78</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Lombardi67">
+<author>Lionello Lombardi</author>
+<title>Incremental Computation.</title>
+<pages>247-333</pages>
+<year>1967</year>
+<volume>8</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac8.html#Lombardi67</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Charette97">
+<author>Robert N. Charette</author>
+<title>Managing the Risks in Information Systems and Technology.</title>
+<pages>1-58</pages>
+<year>1997</year>
+<volume>44</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac44.html#Charette97</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Venkataraman96">
+<author>S. T. Venkataraman</author>
+<title>A Universal Model of Legged Locomotion Gaits.</title>
+<pages>241-268</pages>
+<year>1996</year>
+<volume>42</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac42.html#Venkataraman96</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Kothari87">
+<author>Suresh C. Kothari</author>
+<title>Multistage Interconnection Networks for Multiprocessor Systems.</title>
+<pages>155-199</pages>
+<year>1987</year>
+<volume>26</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac26.html#Kothari87</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Wolfe62">
+<author>Philip Wolfe</author>
+<title>Recent Developments of Nonlinear Programming.</title>
+<pages>155-187</pages>
+<year>1962</year>
+<volume>3</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac3.html#Wolfe62</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Moshman64">
+<author>Jack Moshman</author>
+<title>The Role of Computers in Election Night Broadcasting.</title>
+<pages>1-21</pages>
+<year>1964</year>
+<volume>5</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac5.html#Moshman64</url>
+</article>
+<article mdate="2002-02-22" key="journals/ac/Woods78">
+<author>William A. Woods</author>
+<title>Semantics and Quantification in Natural Language Question Answering.</title>
+<pages>1-87</pages>
+<year>1978</year>
+<volume>17</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac17.html#Woods78</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Rosenfeld79">
+<author>Azriel Rosenfeld</author>
+<title>Image Processing and Recognition.</title>
+<pages>1-57</pages>
+<year>1979</year>
+<volume>18</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac18.html#Rosenfeld79</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Rosenfeld88">
+<author>Azriel Rosenfeld</author>
+<title>Computer Vision.</title>
+<pages>265-308</pages>
+<year>1988</year>
+<volume>27</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac27.html#Rosenfeld88</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Prager70">
+<author>William Prager</author>
+<title>Numerical Methods of Stress Analysis.</title>
+<pages>253-273</pages>
+<year>1970</year>
+<volume>10</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac10.html#Prager70</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Mowshowitz86">
+<author>Abbe Mowshowitz</author>
+<title>Social Dimensions of Office Automation.</title>
+<pages>335-404</pages>
+<year>1986</year>
+<volume>25</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac25.html#Mowshowitz86</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Mowshowitz94">
+<author>Abbe Mowshowitz</author>
+<title>Information as a Commodity: Assessment of Market Value.</title>
+<pages>247-316</pages>
+<year>1994</year>
+<volume>38</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac38.html#Mowshowitz94</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Dickson81">
+<author>Gary W. Dickson</author>
+<title>Management Information Systems: Evolution and Status.</title>
+<pages>1-37</pages>
+<year>1981</year>
+<volume>20</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac20.html#Dickson81</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/PalanivelH91">
+<author>Thiagarajan Palanivel</author>
+<author>Martin Helander</author>
+<title>Human-Factors Issues in Dialog Design.</title>
+<pages>115-171</pages>
+<year>1991</year>
+<volume>33</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac33.html#PalanivelH91</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Zeigler91">
+<author>Bernard P. Zeigler</author>
+<title>Object-Oriented Modeling and Discrete-Event Simulation.</title>
+<pages>67-114</pages>
+<year>1991</year>
+<volume>33</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac33.html#Zeigler91</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/GroskyM92">
+<author>William I. Grosky</author>
+<author>Rajiv Mehrotra</author>
+<title>Image Database Management.</title>
+<pages>237-291</pages>
+<year>1992</year>
+<volume>34</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac34.html#GroskyM92</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Lincoln72">
+<author>Harry B. Lincoln</author>
+<title>Uses of the Computer in Music Composition and Research.</title>
+<pages>73-114</pages>
+<year>1972</year>
+<volume>12</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac12.html#Lincoln72</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/David70">
+<author>E. E. David Jr.</author>
+<title>Computing from the Communication Point of View.</title>
+<pages>109-128</pages>
+<year>1970</year>
+<volume>10</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac10.html#David70</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Davis66">
+<author>Ruth M. Davis</author>
+<title>Programming Language Processors.</title>
+<pages>117-180</pages>
+<year>1966</year>
+<volume>7</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac7.html#Davis66</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Davis95">
+<author>Alan M. Davis</author>
+<title>Software Prototyping.</title>
+<pages>39-63</pages>
+<year>1995</year>
+<volume>40</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac40.html#Davis95</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Turksi64">
+<author>Wladyslaw Turksi</author>
+<title>Some Results of Research on Automatic Programming in Eastern Europe.</title>
+<pages>23-108</pages>
+<year>1964</year>
+<volume>5</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac5.html#Turksi64</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Slotnick70">
+<author>D. L. Slotnick</author>
+<title>Logic per Track Devices.</title>
+<pages>291-296</pages>
+<year>1970</year>
+<volume>10</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac10.html#Slotnick70</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Micheli93">
+<author>Giovanni De Micheli</author>
+<title>High-Level Synthesis of Digital Circuits.</title>
+<pages>207-283</pages>
+<year>1993</year>
+<volume>37</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac37.html#Micheli93</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Rader95">
+<author>Jock A. Rader</author>
+<title>CASE Adoption: A Process, Not an Event.</title>
+<pages>83-156</pages>
+<year>1995</year>
+<volume>41</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac41.html#Rader95</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Chandrasekaran75">
+<author>B. Chandrasekaran</author>
+<title>Artificial Intelligence - The Past Decade.</title>
+<pages>169-232</pages>
+<year>1975</year>
+<volume>13</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac13.html#Chandrasekaran75</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Chandrasekaran94">
+<author>B. Chandrasekaran</author>
+<title>Functional Representation and Causal Processes.</title>
+<pages>73-143</pages>
+<year>1994</year>
+<volume>38</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac38.html#Chandrasekaran94</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Conte62">
+<author>Samuel D. Conte</author>
+<title>The Computation of Satellite Orbit Trajectories.</title>
+<pages>1-76</pages>
+<year>1962</year>
+<volume>3</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac3.html#Conte62</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/NavatheP92">
+<author>Shamkant B. Navathe</author>
+<author>G&uuml;nther Pernul</author>
+<title>Conceptual and Logical Design of Relational Databases.</title>
+<pages>1-80</pages>
+<year>1992</year>
+<volume>35</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac35.html#NavatheP92</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Metcalf86">
+<author>Michael Metcalf</author>
+<title>Computers in High-Energy Physics.</title>
+<pages>277-334</pages>
+<year>1986</year>
+<volume>25</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac25.html#Metcalf86</url>
+</article>
+<article mdate="2004-10-15" key="journals/ac/DeMoriPC90">
+<author>Renato DeMori</author>
+<author>Mathew J. Palakal</author>
+<author>Piero Cosi</author>
+<title>Perceptual Models for Automatic Speech Recognition Systems.</title>
+<pages>99-173</pages>
+<year>1990</year>
+<volume>31</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac31.html#DeMoriPC90</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Buchman68">
+<author>A. S. Buchman</author>
+<title>Aerospace Computers.</title>
+<pages>239-284</pages>
+<year>1968</year>
+<volume>9</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac9.html#Buchman68</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Newborn79">
+<author>Monroe M. Newborn</author>
+<title>Recent Progress in Computer Chess.</title>
+<pages>59-117</pages>
+<year>1979</year>
+<volume>18</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac18.html#Newborn79</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Newborn89">
+<author>Monroe M. Newborn</author>
+<title>Computer Chess: Ten Years of Significant Progress.</title>
+<pages>197-250</pages>
+<year>1989</year>
+<volume>29</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac29.html#Newborn89</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Thwaites70">
+<author>Bryan Thwaites</author>
+<title>Mathematics in 1984 - The Impact of Computers.</title>
+<pages>79-108</pages>
+<year>1970</year>
+<volume>10</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac10.html#Thwaites70</url>
+</article>
+<article mdate="2005-05-30" key="journals/ac/StaubH97">
+<author>Pablo A. Straub</author>
+<author>Carlos A. Hurtado</author>
+<title>Control in Multi-Treaded Information Systems.</title>
+<pages>1-52</pages>
+<year>1997</year>
+<volume>45</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac45.html#StaubH97</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Joyce75">
+<author>James Joyce</author>
+<title>Poetry Generation and Analysis.</title>
+<pages>43-72</pages>
+<year>1975</year>
+<volume>13</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac13.html#Joyce75</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/BinkleyG96">
+<author>David Binkley</author>
+<author>Keith Brian Gallagher</author>
+<title>Program Slicing.</title>
+<pages>1-50</pages>
+<year>1996</year>
+<volume>43</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac43.html#BinkleyG96</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/ChisvinD92">
+<author>Lawrence Chisvin</author>
+<author>R. James Duckworth</author>
+<title>Content-Addressable and Associative Memory.</title>
+<pages>159-235</pages>
+<year>1992</year>
+<volume>34</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac34.html#ChisvinD92</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Cuthill64">
+<author>Elizabeth H. Cuthill</author>
+<title>Digital Computers in Nuclear Reactor Design.</title>
+<pages>289-348</pages>
+<year>1964</year>
+<volume>5</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac5.html#Cuthill64</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Gasarch96">
+<author>William I. Gasarch</author>
+<title>The Complexity of Problems.</title>
+<pages>215-241</pages>
+<year>1996</year>
+<volume>43</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac43.html#Gasarch96</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Halstead79">
+<author>Maurice H. Halstead</author>
+<title>Advances in Software Science.</title>
+<pages>119-172</pages>
+<year>1979</year>
+<volume>18</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac18.html#Halstead79</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Fatehchand60">
+<author>Richard Fatehchand</author>
+<title>Machine Recognition of Spoken Words.</title>
+<pages>193-229</pages>
+<year>1960</year>
+<volume>1</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac1.html#Fatehchand60</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Csuri77">
+<author>Charles A. Csuri</author>
+<title>3-D Computer Animation.</title>
+<pages>1-55</pages>
+<year>1977</year>
+<volume>16</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac16.html#Csuri77</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Reghbati87">
+<author>Hassan K. Reghbati</author>
+<title>Techniques and Issues in Testing and Validation of VLSI Systems.</title>
+<pages>281-334</pages>
+<year>1987</year>
+<volume>26</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac26.html#Reghbati87</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/KlingJ94">
+<author>Rob Kling</author>
+<author>Tom Jewett</author>
+<title>The Social Design of Worklife with Computers and Networks: A Natural Systems Perspective.</title>
+<pages>239-293</pages>
+<year>1994</year>
+<volume>39</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac39.html#KlingJ94</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/KlingS80">
+<author>Rob Kling</author>
+<author>Walt Scacchi</author>
+<title>Computing as Social Action: The Social Dynamics of Computing in Complex Organizations.</title>
+<pages>249-327</pages>
+<year>1980</year>
+<volume>19</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac19.html#KlingS80</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/KlingS82">
+<author>Rob Kling</author>
+<author>Walt Scacchi</author>
+<title>The Web of Computing: Computer Technology as Social Organization.</title>
+<pages>1-90</pages>
+<year>1982</year>
+<volume>21</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac21.html#KlingS82</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Douglas61">
+<author>Jim Douglas Jr.</author>
+<title>A Survey of Numerical Methods for Parabolic Differential Equations.</title>
+<pages>1-54</pages>
+<year>1961</year>
+<volume>2</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac2.html#Douglas61</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/JudyC89">
+<author>Richard W. Judy</author>
+<author>Robert W. Clough</author>
+<title>Soviet Computers in the 1980s: A Review of the Hardware.</title>
+<pages>251-330</pages>
+<year>1989</year>
+<volume>29</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac29.html#JudyC89</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/JudyC90">
+<author>Richard W. Judy</author>
+<author>Robert W. Clough</author>
+<title>Soviet Computing in the 1980s: A Survey of the Software and Its Applications.</title>
+<pages>223-306</pages>
+<year>1990</year>
+<volume>30</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac30.html#JudyC90</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/RichW93">
+<author>Charles Rich</author>
+<author>Richard C. Waters</author>
+<title>Approaches to Automatic Programming.</title>
+<pages>1-57</pages>
+<year>1993</year>
+<volume>37</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac37.html#RichW93</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Gelernter65">
+<author>Herbert L. Gelernter</author>
+<title>Data Collection and Reduction for Nuclear Particle Trace Detectors.</title>
+<pages>229-296</pages>
+<year>1965</year>
+<volume>6</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac6.html#Gelernter65</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Atchison85">
+<author>William F. Atchison</author>
+<title>The Development of Computer Science Education.</title>
+<pages>319-377</pages>
+<year>1985</year>
+<volume>24</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac24.html#Atchison85</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/AtleeCG96">
+<author>Joanne M. Atlee</author>
+<author>Marsha Chechik</author>
+<author>John D. Gannon</author>
+<title>Using Model Checking to Analyze Requirements and Designs.</title>
+<pages>141-178</pages>
+<year>1996</year>
+<volume>43</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac43.html#AtleeCG96</url>
+</article>
+<article mdate="2005-01-18" key="journals/ac/DubesJ80">
+<author>Richard C. Dubes</author>
+<author>Anil K. Jain</author>
+<title>Clustering Methodologies in Exploratory Data Analysis.</title>
+<pages>113-228</pages>
+<year>1980</year>
+<volume>19</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac19.html#DubesJ80</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/KirnerD96">
+<author>Tereza G. Kirner</author>
+<author>Alan M. Davis</author>
+<title>Nonfunctional Requirements of Real-Time Systems.</title>
+<pages>1-37</pages>
+<year>1996</year>
+<volume>42</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac42.html#KirnerD96</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/WalkerdenJ97">
+<author>Fiona Walkerden</author>
+<author>D. Ross Jeffery</author>
+<title>Software Cost Estimation: A Review of Models, Process, and Practice.</title>
+<pages>59-125</pages>
+<year>1997</year>
+<volume>44</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac44.html#WalkerdenJ97</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Tompkins63">
+<author>Howard E. Tompkins</author>
+<title>Computer Education.</title>
+<pages>135-168</pages>
+<year>1963</year>
+<volume>4</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac4.html#Tompkins63</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/MayrhauserV95">
+<author>Anneliese von Mayrhauser</author>
+<author>A. Marie Vans</author>
+<title>Program Understanding: Models and Experiments.</title>
+<pages>1-38</pages>
+<year>1995</year>
+<volume>40</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac40.html#MayrhauserV95</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/BirkhoffVY62">
+<author>Garret Birkhoff</author>
+<author>Richard S. Varga</author>
+<author>David Young</author>
+<title>Alternating Direction Implicit Methods.</title>
+<pages>189-273</pages>
+<year>1962</year>
+<volume>3</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac3.html#BirkhoffVY62</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Sager67">
+<author>Naomi Sager</author>
+<title>Syntactic Analysis of Natural Language.</title>
+<pages>153-188</pages>
+<year>1967</year>
+<volume>8</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac8.html#Sager67</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Sager78">
+<author>Naomi Sager</author>
+<title>Natural Language Information Formatting: The Automatic Conversion of Texts to a Structured Data Base.</title>
+<pages>89-162</pages>
+<year>1978</year>
+<volume>17</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac17.html#Sager78</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/HirschheimK92">
+<author>Rudy Hirschheim</author>
+<author>Heinz K. Klein</author>
+<title>Paradigmatic Influences on Information Systems Development Methodologies: Evolution and Conceptual Advances.</title>
+<pages>293-392</pages>
+<year>1992</year>
+<volume>34</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac34.html#HirschheimK92</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/WittlichIH93">
+<author>Gary E. Wittlich</author>
+<author>Eric J. Isaacson</author>
+<author>Jeffrey E. Hass</author>
+<title>Computer Applications in Music Composition and Research.</title>
+<pages>111-202</pages>
+<year>1993</year>
+<volume>36</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac36.html#WittlichIH93</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/LeePS86">
+<author>Insup Lee</author>
+<author>Noah S. Prywes</author>
+<author>Boleslaw K. Szymanski</author>
+<title>Partitioning of Massive/Real-Time Programs for Parallel Processing.</title>
+<pages>215-275</pages>
+<year>1986</year>
+<volume>25</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac25.html#LeePS86</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/BennionC63">
+<author>David R. Bennion</author>
+<author>Hewitt D. Crane</author>
+<title>All-Magnetic Circuit Techniques.</title>
+<pages>53-133</pages>
+<year>1963</year>
+<volume>4</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac4.html#BennionC63</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/DeFanti84">
+<author>Thomas A. DeFanti</author>
+<title>The Mass Impact of Videogame Technology.</title>
+<pages>93-140</pages>
+<year>1984</year>
+<volume>23</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac23.html#DeFanti84</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Kraft85">
+<author>Donald H. Kraft</author>
+<title>Advances in Information Retrieval: Where Is That/#*&amp;@&#162; Record?</title>
+<pages>277-318</pages>
+<year>1985</year>
+<volume>24</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac24.html#Kraft85</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Phillips60">
+<author>Norman A. Phillips</author>
+<title>Numerical Weather Prediction.</title>
+<pages>43-90</pages>
+<year>1960</year>
+<volume>1</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac1.html#Phillips60</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/BrynjolfssonY96">
+<author>Erik Brynjolfsson</author>
+<author>Shinkyu Yang</author>
+<title>Information Technology and Productivity: A Review of the Literature.</title>
+<pages>179-214</pages>
+<year>1996</year>
+<volume>43</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac43.html#BrynjolfssonY96</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/HartmanisS76">
+<author>Juris Hartmanis</author>
+<author>Janos Simon</author>
+<title>On the Structure of Feasible Computations.</title>
+<pages>1-43</pages>
+<year>1976</year>
+<volume>14</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac14.html#HartmanisS76</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Saltman91">
+<author>Roy G. Saltman</author>
+<title>Computerized Voting.</title>
+<pages>255-305</pages>
+<year>1991</year>
+<volume>32</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac32.html#Saltman91</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/WeideOZ91">
+<author>Bruce W. Weide</author>
+<author>William F. Ogden</author>
+<author>Stuart H. Zweben</author>
+<title>Reusable Software Components.</title>
+<pages>1-65</pages>
+<year>1991</year>
+<volume>33</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac33.html#WeideOZ91</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Nievergelt93">
+<author>J&uuml;rg Nievergelt</author>
+<title>Experiments in Computational Heuristcs and Their Lessons for Software and Knowledge Engineering.</title>
+<pages>167-205</pages>
+<year>1993</year>
+<volume>37</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac37.html#Nievergelt93</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Kushilevitz97">
+<author>Eyal Kushilevitz</author>
+<title>Communication Complexity.</title>
+<pages>331-360</pages>
+<year>1997</year>
+<volume>44</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac44.html#Kushilevitz97</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Garner65">
+<author>Harvey L. Garner</author>
+<title>Number Systems and Arithmetic.</title>
+<pages>131-194</pages>
+<year>1965</year>
+<volume>6</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac6.html#Garner65</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Garvin85">
+<author>Paul L. Garvin</author>
+<title>The Current State of Language Data Processing.</title>
+<pages>217-275</pages>
+<year>1985</year>
+<volume>24</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac24.html#Garvin85</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Thurber81">
+<author>Kenneth J. Thurber</author>
+<title>Architecture and Strategies for Local Networks: Examples and Important Systems.</title>
+<pages>83-114</pages>
+<year>1981</year>
+<volume>20</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac20.html#Thurber81</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Zelkowitz93">
+<author>Marvin V. Zelkowitz</author>
+<title>Role of Verification in the Software Specification Process.</title>
+<pages>43-109</pages>
+<year>1993</year>
+<volume>36</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac36.html#Zelkowitz93</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/AmaravadiGSN95">
+<author>Chandra S. Amaravadi</author>
+<author>Joey F. George</author>
+<author>Olivia R. Liu Sheng</author>
+<author>Jay F. Nunamaker</author>
+<title>The Adequacy of Office Models.</title>
+<pages>181-253</pages>
+<year>1995</year>
+<volume>40</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac40.html#AmaravadiGSN95</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Basili95">
+<author>Victor R. Basili</author>
+<title>The Experience Factory and Its Relationship to Other Quality Approaches.</title>
+<pages>65-82</pages>
+<year>1995</year>
+<volume>41</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac41.html#Basili95</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Dutta87">
+<author>Amitava Dutta</author>
+<title>The Explicit Support of Human Reasoning in Decision Support Systems.</title>
+<pages>1-45</pages>
+<year>1987</year>
+<volume>26</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac26.html#Dutta87</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/MirsalehiAC89">
+<author>Mir Mojtaba Mirsalehi</author>
+<author>Mustafa A. G. Abushagur</author>
+<author>H. John Caulfield</author>
+<title>Optical and Optoelectronic Computing.</title>
+<pages>153-226</pages>
+<year>1989</year>
+<volume>28</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac28.html#MirsalehiAC89</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/McGee63">
+<author>William C. McGee</author>
+<title>The Formulation of Data Processing Problems for Computers.</title>
+<pages>1-52</pages>
+<year>1963</year>
+<volume>4</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac4.html#McGee63</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/LakshmivarahanDM84">
+<author>S. Lakshmivarahan</author>
+<author>Sudarshan K. Dhall</author>
+<author>Leslie L. Miller</author>
+<title>Parallel Sorting Algorithms.</title>
+<pages>295-354</pages>
+<year>1984</year>
+<volume>23</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac23.html#LakshmivarahanDM84</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/OKane88">
+<author>Kevin C. O'Kane</author>
+<title>Computers in the Health Sciences.</title>
+<pages>211-263</pages>
+<year>1988</year>
+<volume>27</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac27.html#OKane88</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Lawlor62">
+<author>Reed C. Lawlor</author>
+<title>Information Technology and the Law.</title>
+<pages>299-346</pages>
+<year>1962</year>
+<volume>3</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac3.html#Lawlor62</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Maier88">
+<author>John H. Maier</author>
+<title>Computer Science and Information Technology in the People's Republic of Chine: The Emergence of Connectivity.</title>
+<pages>363-458</pages>
+<year>1988</year>
+<volume>27</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac27.html#Maier88</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/SaccoY82">
+<author>Giovanni Maria Sacco</author>
+<author>S. Bing Yao</author>
+<title>Query Optimization in Distributed Data Base Systems.</title>
+<pages>225-273</pages>
+<year>1982</year>
+<volume>21</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac21.html#SaccoY82</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Prywes77">
+<author>Noah S. Prywes</author>
+<title>Automatic Generation of Computer Programs.</title>
+<pages>57-125</pages>
+<year>1977</year>
+<volume>16</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac16.html#Prywes77</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Duncan92">
+<author>Ralph Duncan</author>
+<title>Parallel Computer Architectures.</title>
+<pages>113-157</pages>
+<year>1992</year>
+<volume>34</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac34.html#Duncan92</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Duncan97">
+<author>Ralph Duncan</author>
+<title>Parallel Computer Construction Outside the United States.</title>
+<pages>169-218</pages>
+<year>1997</year>
+<volume>44</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac44.html#Duncan97</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Olazaran93">
+<author>Mikel Olazaran</author>
+<title>A Sociological History of the Neural Network Controversy.</title>
+<pages>335-425</pages>
+<year>1993</year>
+<volume>37</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac37.html#Olazaran93</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Pernul94">
+<author>G&uuml;nther Pernul</author>
+<title>Database Security.</title>
+<pages>1-72</pages>
+<year>1994</year>
+<volume>38</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac38.html#Pernul94</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/DyerH93">
+<author>Stephen A. Dyer</author>
+<author>Brian K. Harms</author>
+<title>Digital Signal Processing.</title>
+<pages>59-117</pages>
+<year>1993</year>
+<volume>37</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac37.html#DyerH93</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Reeker76">
+<author>Larry H. Reeker</author>
+<title>The Computational Study of Language Acquisition.</title>
+<pages>181-237</pages>
+<year>1976</year>
+<volume>15</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac15.html#Reeker76</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/HsiaoB76">
+<author>David K. Hsiao</author>
+<author>Richard I. Baum</author>
+<title>Information Secure Systems.</title>
+<pages>231-272</pages>
+<year>1976</year>
+<volume>14</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac14.html#HsiaoB76</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Wegner70">
+<author>Peter Wegner</author>
+<title>Three Computer Cultures: Computer Technology, Computer Mathematics, and Computer Science.</title>
+<pages>7-78</pages>
+<year>1970</year>
+<volume>10</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac10.html#Wegner70</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Grenander70">
+<author>Ulf Grenander</author>
+<title>A Unified Approach to Pattern Analysis.</title>
+<pages>175-216</pages>
+<year>1970</year>
+<volume>10</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac10.html#Grenander70</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/TrivediC91">
+<author>Mohan M. Trivedi</author>
+<author>ChuXin Chen</author>
+<title>Sensor-Driven Intelligent Robotics.</title>
+<pages>105-148</pages>
+<year>1991</year>
+<volume>32</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac32.html#TrivediC91</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Gammill82">
+<author>Robert C. Gammill</author>
+<title>Microcomputers: Applications, Problems, and Promise.</title>
+<pages>155-224</pages>
+<year>1982</year>
+<volume>21</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac21.html#Gammill82</url>
+</article>
+<article mdate="2003-06-25" key="journals/ac/TraubW84">
+<author>J. F. Traub</author>
+<author>Henryk Wozniakowski</author>
+<title>Information and Computation.</title>
+<pages>35-92</pages>
+<year>1984</year>
+<volume>23</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac23.html#TraubW84</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Roberts72">
+<author>David C. Roberts</author>
+<title>File Organization Techniques.</title>
+<pages>115-174</pages>
+<year>1972</year>
+<volume>12</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac12.html#Roberts72</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Bozman66">
+<author>William R. Bozman</author>
+<title>Computer-Aided Typesetting.</title>
+<pages>195-207</pages>
+<year>1966</year>
+<volume>7</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac7.html#Bozman66</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Suppes79">
+<author>Patrick Suppes</author>
+<title>Current Trends in Computer-Assisted Instruction.</title>
+<pages>173-229</pages>
+<year>1979</year>
+<volume>18</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac18.html#Suppes79</url>
+</article>
+<article mdate="2004-11-26" key="journals/ac/HursonLKL97">
+<author>Ali R. Hurson</author>
+<author>Joford T. Lim</author>
+<author>Krishna M. Kavi</author>
+<author>Ben Lee</author>
+<title>Parallelization of DOALL and DOACROSS Loops - A Survey.</title>
+<pages>53-103</pages>
+<year>1997</year>
+<volume>45</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac45.html#HursonLKL97</url>
+</article>
+<article mdate="2005-05-23" key="journals/ac/HursonMPC90">
+<author>Ali R. Hurson</author>
+<author>Les L. Miller</author>
+<author>Simin H. Pakzad</author>
+<author>Jia-bing R. Cheng</author>
+<title>Specialized Parallel Architectures for Textual Databases.</title>
+<pages>1-37</pages>
+<year>1990</year>
+<volume>30</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac30.html#HursonMPC90</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Mills93">
+<author>Harlan D. Mills</author>
+<title>Zero Defect Software: Cleanroom Engineering.</title>
+<pages>1-41</pages>
+<year>1993</year>
+<volume>36</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac36.html#Mills93</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Steel67">
+<author>Thomas B. Steel Jr.</author>
+<title>Standards for Computers and Information Processing.</title>
+<pages>103-152</pages>
+<year>1967</year>
+<volume>8</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac8.html#Steel67</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Gillenson90">
+<author>Mark L. Gillenson</author>
+<title>Database Design and Performance.</title>
+<pages>39-83</pages>
+<year>1990</year>
+<volume>30</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac30.html#Gillenson90</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/CerconeM86">
+<author>Nick Cercone</author>
+<author>Gordon I. McCalla</author>
+<title>Accessing Knowledge through Natural Language.</title>
+<pages>1-99</pages>
+<year>1986</year>
+<volume>25</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac25.html#CerconeM86</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/HwangSN81">
+<author>Kai Hwang</author>
+<author>Shun-Piao Su</author>
+<author>Lionel M. Ni</author>
+<title>Vector Computer Architecture and Processing Techniques.</title>
+<pages>115-197</pages>
+<year>1981</year>
+<volume>20</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac20.html#HwangSN81</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Sammet67">
+<author>Jean E. Sammet</author>
+<title>Formula Manipulation by Computer.</title>
+<pages>47-102</pages>
+<year>1967</year>
+<volume>8</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac8.html#Sammet67</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Sammet81">
+<author>Jean E. Sammet</author>
+<title>An Overview of High-Level Languages.</title>
+<pages>199-259</pages>
+<year>1981</year>
+<volume>20</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac20.html#Sammet81</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Josselson71">
+<author>Harry H. Josselson</author>
+<title>Automatic Translation of Languages Since 1960: A Linguist's View.</title>
+<pages>1-58</pages>
+<year>1971</year>
+<volume>11</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac11.html#Josselson71</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/NandhakumarA92">
+<author>N. Nandhakumar</author>
+<author>J. K. Aggarwal</author>
+<title>Multisensory Computer Vision.</title>
+<pages>59-111</pages>
+<year>1992</year>
+<volume>34</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac34.html#NandhakumarA92</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Samuel60">
+<author>Arthur L. Samuel</author>
+<title>Programming Computers to Play Games.</title>
+<pages>165-192</pages>
+<year>1960</year>
+<volume>1</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac1.html#Samuel60</url>
+</article>
+<article mdate="2003-11-14" key="journals/ac/Norman91">
+<author>Kent L. Norman</author>
+<title>Models of the Mind and Machine: Information Flow and Control between Humans and Computers.</title>
+<pages>201-254</pages>
+<year>1991</year>
+<volume>32</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac32.html#Norman91</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Kochen89">
+<author>Manfred Kochen</author>
+<title>Management Intelligence Systems.</title>
+<pages>227-278</pages>
+<year>1989</year>
+<volume>28</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac28.html#Kochen89</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/HeimannMT90">
+<author>David I. Heimann</author>
+<author>Nitin Mittal</author>
+<author>Kishor S. Trivedi</author>
+<title>Availability and Reliability Modeling for Computer Systems.</title>
+<pages>175-233</pages>
+<year>1990</year>
+<volume>31</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac31.html#HeimannMT90</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Satterthwait66">
+<author>Arnold C. Satterthwait</author>
+<title>Programming Languages for Computational Linguistics.</title>
+<pages>209-238</pages>
+<year>1966</year>
+<volume>7</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac7.html#Satterthwait66</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Bitzer76">
+<author>Donald Bitzer</author>
+<title>The Wide World of Computer-Based Education.</title>
+<pages>239-283</pages>
+<year>1976</year>
+<volume>15</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac15.html#Bitzer76</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Gemignani83">
+<author>Michael Gemignani</author>
+<title>Legal Protection of Software: A Survey.</title>
+<pages>1-44</pages>
+<year>1983</year>
+<volume>22</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac22.html#Gemignani83</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Lykos82">
+<author>Peter Lykos</author>
+<title>Computers in the World of Chemistry.</title>
+<pages>275-331</pages>
+<year>1982</year>
+<volume>21</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac21.html#Lykos82</url>
+</article>	
+<article mdate="2018-01-07" key="tr/meltdown/s18" publtype="informal">
+<author>Paul Kocher</author>
+<author>Daniel Genkin</author>
+<author>Daniel Gruss</author>
+<author>Werner Haas</author>
+<author>Mike Hamburg</author>
+<author>Moritz Lipp</author>
+<author>Stefan Mangard</author>
+<author>Thomas Prescher 0002</author>
+<author>Michael Schwarz 0001</author>
+<author>Yuval Yarom</author>
+<title>Spectre Attacks: Exploiting Speculative Execution.</title>
+<journal>meltdownattack.com</journal>
+<year>2018</year>
+<ee>https://spectreattack.com/spectre.pdf</ee>
+</article>
+<article mdate="2018-01-07" key="tr/meltdown/m18" publtype="informal">
+<author>Moritz Lipp</author>
+<author>Michael Schwarz 0001</author>
+<author>Daniel Gruss</author>
+<author>Thomas Prescher 0002</author>
+<author>Werner Haas</author>
+<author>Stefan Mangard</author>
+<author>Paul Kocher</author>
+<author>Daniel Genkin</author>
+<author>Yuval Yarom</author>
+<author>Mike Hamburg</author>
+<title>Meltdown</title>
+<journal>meltdownattack.com</journal>
+<ee>https://meltdownattack.com/meltdown.pdf</ee>
+<year>2018</year>
+</article>
+<book mdate="2019-05-27" key="tr/acm/CS2013">
+<title>Computer Science Curricula 2013</title>
+<publisher>ACM Press and IEEE Computer Society Press</publisher>
+<year>2013</year>
+<ee>https://doi.org/10.1145/2534860</ee>
+<isbn>978-1-4503-2309-3</isbn>
+</book>
+<article mdate="2017-06-08" key="tr/gte/TR-0263-08-94-165" publtype="informal">
+<author>Frank Manola</author>
+<title>An Evaluation of Object-Oriented DBMS Developments: 1994 Edition.</title>
+<journal>GTE Laboratories Incorporated</journal>
+<volume>TR-0263-08-94-165</volume>
+<month>August</month>
+<year>1994</year>
+<url>db/labs/gte/index.html#TR-0263-08-94-165</url>
+</article><article mdate="2019-05-27" key="tr/gte/TR-0222-10-92-165" publtype="informal">
+<author>Michael L. Brodie</author>
+<author>Michael Stonebraker</author>
+<title>DARWIN: On the Incremental Migration of Legacy Information Systems</title>
+<journal>GTE Laboratories Incorporated</journal>
+<volume>TR-0222-10-92-165</volume>
+<month>March</month>
+<year>1993</year>
+<url>db/labs/gte/index.html#TR-0222-10-92-165</url>
+<note>This report is also available as a Technical Memorandum of Electronics Research Laboratory, College of Engineering, University of California, Berkeley.</note>
+</article>
+<article mdate="2017-06-08" key="tr/gte/TR-0174-12-91-165" publtype="informal">
+<author>Mark F. Hornick</author>
+<author>Joe D. Morrison</author>
+<author>Farshad Nayeri</author>
+<title>Integrating Heterogeneous, Autonomous, Distributed Applications Using the DOM Prototype.</title>
+<journal>GTE Laboratories Incorporated</journal>
+<volume>TR-0174-12-91-165</volume>
+<month>December</month>
+<year>1991</year>
+<url>db/labs/gte/index.html#TR-0174-12-91-165</url>
+</article><article mdate="2017-06-08" key="tr/gte/TM-0149-06-89-165" publtype="informal">
+<author>Frank Manola</author>
+<title>Object Model Capabilities For Distributed Object Management.</title>
+<journal>GTE Laboratories Incorporated</journal>
+<volume>TM-0149-06-89-165</volume>
+<month>June</month>
+<year>1989</year>
+<url>db/labs/gte/index.html#TM-0149-06-89-165</url>
+</article><article mdate="2017-06-08" key="tr/gte/TR-0310-11-95-165" publtype="informal">
+<author>Frank Manola</author>
+<title>Integrating Object-Oriented Applications and Middleware with Relational Databases.</title>
+<journal>GTE Laboratories Incorporated</journal>
+<volume>TR-0310-11-95-165</volume>
+<month>November</month>
+<year>1995</year>
+<url>db/labs/gte/index.html#TR-0310-11-95-165</url>
+</article><article mdate="2017-06-08" key="tr/gte/TR-0146-06-91-165" publtype="informal">
+<author>Alejandro P. Buchmann</author>
+<author>M. Tamer &Ouml;zsu</author>
+<author>Dimitrios Georgakopoulos</author>
+<title>Towards a Transaction Management System for DOM.</title>
+<journal>GTE Laboratories Incorporated</journal>
+<volume>TR-0146-06-91-165</volume>
+<month>June</month>
+<year>1991</year>
+<url>db/labs/gte/index.html#TR-0146-06-91-165</url>
+</article><article mdate="2017-06-08" key="tr/gte/TR-0231-08-93-165" publtype="informal">
+<author>Frank Manola</author>
+<author>Sandra Heiler</author>
+<title>A 'RISC' Object Model for Object System Interoperation: Concepts and Applications.</title>
+<journal>GTE Laboratories Incorporated</journal>
+<volume>TR-0231-08-93-165</volume>
+<month>August</month>
+<year>1993</year>
+<url>db/labs/gte/index.html#TR-0231-08-93-165</url>
+</article><article mdate="2017-06-08" key="tr/gte/TR-0244-12-93-165" publtype="informal">
+<author>Frank Manola</author>
+<title>MetaObject Protocol Concepts for a RISC Object Model.</title>
+<journal>GTE Laboratories Incorporated</journal>
+<volume>TR-0244-12-93-165</volume>
+<month>December</month>
+<year>1993</year>
+<url>db/labs/gte/index.html#TR-0244-12-93-165</url>
+</article><article mdate="2017-06-08" key="tr/gte/TR-0169-12-91-165" publtype="informal">
+<author>Frank Manola</author>
+<title>Object Data Language Facilities for Multimedia Data Types.</title>
+<journal>GTE Laboratories Incorporated</journal>
+<volume>TR-0169-12-91-165</volume>
+<month>December</month>
+<year>1991</year>
+<url>db/labs/gte/index.html#TR-0169-12-91-165</url>
+</article><article mdate="2017-06-08" key="tr/gte/TM-0332-11-90-165" publtype="informal">
+<author>Frank Manola</author>
+<author>Mark F. Hornick</author>
+<author>Alejandro P. Buchmann</author>
+<title>Object Data Model Facilities for Multimedia Data Types.</title>
+<journal>GTE Laboratories Incorporated</journal>
+<volume>TM-0332-11-90-165</volume>
+<month>December</month>
+<year>1990</year>
+<url>db/labs/gte/index.html#TM-0332-11-90-165</url>
+</article><article mdate="2017-06-08" key="tr/gte/TM-0014-06-88-165" publtype="informal">
+<author>Frank Manola</author>
+<title>Distributed Object Management Technology.</title>
+<journal>GTE Laboratories Incorporated</journal>
+<volume>TM-0014-06-88-165</volume>
+<month>June</month>
+<year>1988</year>
+<url>db/labs/gte/index.html#TM-0014-06-88-165</url>
+</article><article mdate="2017-06-08" key="tr/gte/TR-0236-09-93-165" publtype="informal">
+<author>Farshad Nayeri</author>
+<author>Benjamin Hurwitz</author>
+<title>Experiments with Dispatching in a Distributed Object System.</title>
+<journal>GTE Laboratories Incorporated</journal>
+<volume>TR-0236-09-93-165</volume>
+<month>July</month>
+<year>1993</year>
+<url>db/labs/gte/index.html#TR-0236-09-93-165</url>
+</article><article mdate="2017-06-08" key="tr/ucb/erl-m79-28" publtype="informal">
+<author>Michael Stonebraker</author>
+<title>Muffin: A Distributed Database Machine</title>
+<journal>University of California at Berkeley</journal>
+<volume>UCB/ERL M79/28</volume>
+<month>May</month>
+<year>1979</year>
+</article><article mdate="2018-06-28" key="tr/sql/X3H2-90-412" publtype="informal">
+<author>David Beech</author>
+<author>Cetin Ozbutun</author>
+<title>Object Oriented DBMS as a Generalization of Relational DBMS</title>
+<journal>ANSI X3H2</journal>
+<volume>X3H2-90-412</volume>
+<year>1990</year>
+<url>db/ansi/x3h2.html#X3H2-90-412</url>
+<cdrom>SQL/X3H2-90-412.pdf</cdrom>
+</article><article mdate="2018-06-28" key="tr/sql/X3H2-91-133rev1" publtype="informal">
+<author>Krishna G. Kulkarni</author>
+<author>Jim Melton</author>
+<author>Jonathan Bauer</author>
+<author>Mike Kelley</author>
+<title>Inheritance for ADTs (revised)</title>
+<journal>ANSI X2H2</journal>
+<volume>DBL:KAW-006 X3H2-91-133rev1</volume>
+<month>July</month>
+<year>1991</year>
+<url>db/ansi/x3h2.html#X3H2-91-133rev1</url>
+<cdrom>SQL/x3h2-91-133rev1.pdf</cdrom>
+</article><article mdate="2018-06-28" key="tr/sql/X3H2-90-292" publtype="informal">
+<author>Phil Shaw</author>
+<title>Modification of User Defined Types</title>
+<journal>ANSI X3H2</journal>
+<volume>X3H2-90-292</volume>
+<year>1990</year>
+<url>db/ansi/x3h2.html#X3H2-90-292</url>
+<cdrom>SQL/X3H2-90-292.pdf</cdrom>
+</article><article mdate="2018-06-28" key="tr/sql/X3H2-91-083rev1" publtype="informal">
+<author>Jim Melton</author>
+<author>Jonathan Bauer</author>
+<author>Krishna G. Kulkarni</author>
+<title>Object ADTs (with improvements for Value ADTs)</title>
+<journal>ANSI X3H2</journal>
+<volume>DBL:ARL-029 X3H2-91-083rev1</volume>
+<month>April</month>
+<year>1991</year>
+<url>db/ansi/x3h2.html#X3H2-91-083rev1</url>
+<cdrom>SQL/X3H2-91-083rev1.pdf</cdrom>
+</article><article mdate="2018-06-28" key="tr/sql/X3H2-92-062" publtype="informal">
+<author>David Beech</author>
+<title>Unification of Value and Object ADTs</title>
+<journal>ANSI X3H2</journal>
+<volume>X3H2-92-062</volume>
+<year>1992</year>
+<url>db/ansi/x3h2.html#X3H2-92-062</url>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS191" publtype="informal">
+<author>Rolf Sander</author>
+<title>Die Repr&auml;sentation r&auml;umlichen Wissens und die Behandlung von Einbettungsproblemen mit Quadtreedepiktionen</title>
+<journal>IWBS Report</journal>
+<volume>191</volume>
+<year>1991</year>
+<publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOG59" publtype="informal">
+<author>Thomas Ludwig 0001</author>
+<title>Algebraical Optimization of FTA-Expressions</title>
+<journal>LILOG-Report</journal>
+<volume>59</volume>
+<year>1988</year>
+<publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOG15" publtype="informal">
+<author>Werner Emde</author>
+<author>Claus-Rainer Rollinger</author>
+<title>Wissensrepr&auml;sentation und Maschinelles Lernen</title>
+<journal>LILOG-Report</journal>
+<volume>15</volume>
+<year>1987</year>
+<publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOG40" publtype="informal">
+<author>Christoph Beierle</author>
+<author>Udo Pletat</author>
+<author>Hans Uszkoreit</author>
+<title>An Algebraic Characterization of STUF</title>
+<journal>LILOG-Report</journal>
+<volume>40</volume>
+<year>1988</year>
+<publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS225" publtype="informal">
+<author>Ulrike Rackow</author>
+<author>Ido Dagan</author>
+<author>Ulrike Schwall</author>
+<title>A Combined Symbolic-Empirical Apprach for the Automatic Translation of Compounds</title>
+<journal>IWBS Report</journal>
+<volume>225</volume>
+<year>1992</year>
+<publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOGM2" publtype="informal">
+<author>Brigitte Bartsch-Sp&ouml;rl</author>
+<title>Zur Systemarchitektur von LILOG</title>
+<journal>LILOG-Memo</journal>
+<volume>2</volume>
+<year>1987</year>
+<publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOG61" publtype="informal">
+<author>Erich Gehlen</author>
+<author>Burkhard Kehrbusch</author>
+<title>Mengenorientierte Auswertung von Anfragen in der Logikprogrammiersprache PROLOG</title>
+<journal>LILOG-Report</journal>
+<volume>61</volume>
+<year>1988</year>
+<publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOG53" publtype="informal">
+<author>Markus H&ouml;hfeld</author>
+<author>Gert Smolka</author>
+<title>Definite Resolution over Constraint Languages</title>
+<journal>LILOG-Report</journal>
+<volume>53</volume>
+<year>1988</year>
+<publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOGM9" publtype="informal">
+<author>Birgit Wesche</author>
+<title>Dokumentation der Syntax der LILOG-Grammatik</title>
+<journal>LILOG-Memo</journal>
+<volume>9</volume>
+<year>1988</year>
+<publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOG45" publtype="informal">
+<author>Christopher Habel</author>
+<title>Cognitive Linguistics: The Processing of Spatial Concepts</title>
+<journal>LILOG-Report</journal>
+<volume>45</volume>
+<year>1988</year>
+<publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOG56" publtype="informal">
+<author>Thomas Ludwig 0001</author>
+<author>Bernd Walter</author>
+<author>Michael Ley</author>
+<author>Albert Maier</author>
+<author>Erich Gehlen</author>
+<title>LILOG-DB: Database Support for Knowledge-Based Systems</title>
+<journal>LILOG-Report</journal>
+<volume>56</volume>
+<year>1988</year>
+<publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS201" publtype="informal">
+<author>Thomas Ludwig 0001</author>
+<author>Stefan Benzschawel</author>
+<author>Erich Gehlen</author>
+<title>Differential Closure Computation for General Horn-Clause Queries</title>
+<journal>IWBS Report</journal>
+<volume>201</volume>
+<year>1991</year>
+<publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/G320-6590" publtype="informal">
+<title>SQL/Data System for VSE: A Relational Data System for Application Development.</title>
+<journal>IBM Publication</journal>
+<volume>G320-6590</volume>
+<publisher>IBM Corporation, White Plains, NY</publisher>
+<year>1981</year>
+<note>republished on "ACM SIGMOD Anthology"</note>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS111" publtype="informal">
+<author>Egon B&ouml;rger</author>
+<title>A Logical Operational Semantics of Full Prolog</title>
+<journal>IWBS Report</journal>
+<volume>111</volume>
+<year>1990</year>
+<publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOG60" publtype="informal">
+<author>Michael Ley</author>
+<title>Ein Fact Manager zur persistenten Speicherung variabel strukturierter komplexer Objekte</title>
+<journal>LILOG-Report</journal>
+<volume>60</volume>
+<year>1988</year>
+<publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS228" publtype="informal">
+<author>Roland Seiffert</author>
+<title>How could a good system of practical NLP look like?</title>
+<journal>IWBS Report</journal>
+<volume>228</volume>
+<year>1992</year>
+<publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS188" publtype="informal">
+<author>Gisela Sch&ouml;pke</author>
+<title>M&ouml;glichkeiten des Einsatzes eines dreiwertigen Theorembeweisers</title>
+<journal>IWBS Report</journal>
+<volume>188</volume>
+<year>1991</year>
+<publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS87" publtype="informal">
+<author>Stefan B&ouml;ttcher</author>
+<title>Attribute Inheritance Implemented on Top of a Relational Database System</title>
+<journal>IWBS Report</journal>
+<volume>87</volume>
+<year>1989</year>
+<publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS177" publtype="informal">
+<author>Ulrike Schwall</author>
+<title>LMT - Machine Translation Demonstration</title>
+<journal>IWBS Report</journal>
+<volume>177</volume>
+<year>1991</year>
+<publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOG3" publtype="informal">
+<author>Rudi Studer</author>
+<author>Bernd Walter</author>
+<title>Implementation Aspects of a Natural Language Understanding System in a Prolog/DB Environment</title>
+<journal>LILOG-Report</journal>
+<volume>3</volume>
+<year>1986</year>
+<publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS154" publtype="informal">
+<author>Albert Maier</author>
+<author>Michael Ley</author>
+<author>Erich Gehlen</author>
+<title>Sort Processing in a Deductive Database System</title>
+<journal>IWBS Report</journal>
+<volume>154</volume>
+<year>1991</year>
+<publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS150" publtype="informal">
+<author>Thomas Ludwig 0001</author>
+<author>Bernd Walter</author>
+<title>EFTA: A Database Retrieval Algebra for Feature Terms</title>
+<journal>IWBS Report</journal>
+<volume>150</volume>
+<year>1991</year>
+<publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS165" publtype="informal">
+<author>Toni Bollinger</author>
+<author>Udo Pletat</author>
+<title>Knowledge in Operation</title>
+<journal>IWBS Report</journal>
+<volume>165</volume>
+<year>1991</year>
+<publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS163" publtype="informal">
+<author>Christoph Beierle</author>
+<title>An Overview on Planning Applications in PROTOS-L</title>
+<journal>IWBS Report</journal>
+<volume>163</volume>
+<year>1991</year>
+<publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOG34" publtype="informal">
+<author>Carola Eschenbach</author>
+<title>&Uuml;ber Ans&auml;tze zur Darstellung von Konzepten und Prototypen</title>
+<journal>LILOG-Report</journal>
+<volume>34</volume>
+<year>1988</year>
+<publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS68" publtype="informal">
+<author>Manfred Schmidt-Schau&szlig;</author>
+<author>Gert Smolka</author>
+<title>Attributive Concept Descriptions with Unions and Complements</title>
+<journal>IWBS Report</journal>
+<volume>68</volume>
+<year>1989</year>
+<publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS166" publtype="informal">
+<author>Hans-Joachim Goltz</author>
+<title>Ein praktischer Algorithmus f&uuml;r die E-Unifikation</title>
+<journal>IWBS Report</journal>
+<volume>166</volume>
+<year>1991</year>
+<publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOG5" publtype="informal">
+<author>Claus-Rainer Rollinger</author>
+<title>Simulation Sprachlichen Verstehens: Generelle Probleme bei der semantischen Interpretation der nat&uuml;rlichen Sprache</title>
+<journal>LILOG-Report</journal>
+<volume>5</volume>
+<year>1986</year>
+<publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS126" publtype="informal">
+<author>Otthein Herzog</author>
+<title>The Institute for Knowledge Based Systems in the IBM Germany Scientific Center</title>
+<journal>IWBS Report</journal>
+<volume>126</volume>
+<year>1990</year>
+<publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS208" publtype="informal">
+<author>Bernhard Beckert</author>
+<title>Konzeption und Implementierung von Gleichheit f&uuml;r einen tableau-basierten Theorem-Beweiser</title>
+<journal>IWBS Report</journal>
+<volume>208</volume>
+<year>1992</year>
+<publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS89" publtype="informal">
+<author>Christoph Beierle</author>
+<author>Stefan B&ouml;ttcher</author>
+<title>PROTOS-L: Towards a Knowledge Base Programming Language</title>
+<journal>IWBS Report</journal>
+<volume>89</volume>
+<year>1989</year>
+<publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS212" publtype="informal">
+<author>Stefan J. Schierholz</author>
+<title>Syntaktische Informationseinheiten zu deutschen Adjektiven</title>
+<journal>IWBS Report</journal>
+<volume>212</volume>
+<year>1992</year>
+<publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOG37" publtype="informal">
+<author>Christoph Beierle</author>
+<author>Udo Pletat</author>
+<title>On the Interpretation of Equality, Sorts, and Logic Programming</title>
+<journal>LILOG-Report</journal>
+<volume>37</volume>
+<year>1987</year>
+<publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS237" publtype="informal">
+<author>Birgit Wendholt</author>
+<title>DInG - ein Dom&auml;nen-orientierter Inkrementeller und Integrierter Generator f&uuml;r koh&auml;rente Texte</title>
+<journal>IWBS Report</journal>
+<volume>237</volume>
+<year>1992</year>
+<publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS180" publtype="informal">
+<author>Gudrun Klose</author>
+<title>Prozedurale Semantik. Repr&auml;sentation der Sprechergegenwart.</title>
+<journal>IWBS Report</journal>
+<volume>180</volume>
+<year>1991</year>
+<publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOGM8" publtype="informal">
+<author>Michael Herweg</author>
+<author>Mohammed Nadjib Khenkhar</author>
+<author>Simone Pribbenow</author>
+<author>Klaus Rehk&auml;mper</author>
+<title>Elsa&szlig;-Wanderung f&uuml;r Linguisten: Exemplarische Analyse und Repr&auml;sentation eines Satzes aus einer Reisebeschreibung</title>
+<journal>LILOG-Memo</journal>
+<volume>8</volume>
+<year>1988</year>
+<publisher>IBM Deutschland GmbH</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/IWBS220" publtype="informal">
+<author>Anja Theuner</author>
+<title>"Dictionary Dialog" - Entwurf des Funktionsumfangs f&uuml;r eine Benutzerschnittstelle eines integrierten maschinellen/maschinenunterst&uuml;tzten &Uuml;bersetzungssystems und prototypische Erstellung der Bildschirmfolge f&uuml;r die Funktion "Semantische Relation"</title>
+<journal>IWBS Report</journal>
+<volume>220</volume>
+<year>1992</year>
+<publisher>IBM Germany Science Center, Institute for Knowledge Based Systems</publisher>
+</article><article mdate="2017-06-08" key="tr/ibm/LILOGM4" publtype="informal">
+<author>Brigitte Bartsch-Sp&ouml;rl</author>
+<title>Zur Behandlung komplexer Objekte in LILOG</title>
+<journal>LILOG-Memo</journal>
+<volume>4</volume>
+<year>1987</year>
+<publisher>IBM Deutschland GmbH</publisher>
+</article>
+<mastersthesis mdate="2002-01-03" key="ms/Brown92">
+<author>Kurt P. Brown</author>
+<title>PRPL: A Database Workload Specification Language, v1.3.</title>
+<year>1992</year>
+<school>Univ. of Wisconsin-Madison</school>
+</mastersthesis>
+
+
+<mastersthesis mdate="2002-01-03" key="ms/Yurek97">
+<author>Tolga Yurek</author>
+<title>Efficient View Maintenance at Data Warehouses.</title>
+<year>1997</year>
+<school>University of California at Santa Barbara, Department of Computer Science</school>
+</mastersthesis>
+
+
+<www mdate="2002-01-03" key="www/fi/hut-som">
+<title>Self-organizing Map</title>
+<url>http://www.cis.hut.fi/nnrc/nnrc-programs.html</url>
+</www>
+
+<www mdate="2002-01-03" key="www/gov/nasa/beowulf">
+<title>Beowulf Project at CESDIS</title>
+<url>http://beowulf.gsfc.nasa.gov/beowulf.html</url>
+</www>
+
+<www mdate="2002-01-03" key="www/it/stet-mpeg">
+<title>The MPEG Home Page</title>
+<url>http://drogo.cselt.stet.it/mpeg/</url>
+</www>
+
+
+<www mdate="2002-01-03" key="www/fr/ardentsoftware">
+<title>Ardent Software</title>
+<url>http://www.ardentsoftware.fr</url>
+</www>
+
+<www mdate="2002-01-03" key="www/org/aiim-wfmc">
+<title>WfMC Standards: The Workflow Reference Model, Version 1.1.</title>
+<year>1995</year>
+<url>http://www.aiim.org/wfmc/mainframe.htm</url>
+</www>
+
+<www mdate="2002-01-03" key="www/org/kaffe">
+<title>KAFFE</title>
+<url>http://www.kaffe.org/</url>
+</www>
+
+<www mdate="2002-01-03" key="www/org/w3/style-xsl">
+<title>W3C: Extensible Stylesheet Language (XSL)</title>
+<url>http://www.w3.org/Style/XSL/</url>
+</www>
+
+<www mdate="2002-11-14" key="www/org/w3/http1-1">
+<author>Roy T. Fielding</author>
+<author>Henrik Frystyk Nielsen</author>
+<author>Tim Berners-Lee</author>
+<title>Internet Draft: Hypertext Transfer Protocol - HTTP/1.1</title>
+<url>http://www.w3.org/Protocols/HTTP/1.1/spec.html</url>
+</www>
+
+<www mdate="2002-01-03" key="www/org/w3/dom">
+<title>W3C: Document Oject Model (DOM)</title>
+<url>http://www.w3.org/DOM/</url>
+</www>
+
+<www mdate="2002-01-03" key="www/org/w3/w3c">
+<title>W3C - The World Wide Web Consortium</title>
+<url>http://www.w3.org/</url>
+</www>
+
+<www mdate="2002-01-03" key="www/org/w3/rfc1738">
+<author>Tim Berners-Lee</author>
+<title>Request for Comments: 1738, Uniform Resource Locators (URL)</title>
+<year>1994</year>
+<url>http://www.w3.org/Addressing/rfc1738.txt</url>
+</www>
+
+<www mdate="2002-01-03" key="www/org/w3/ql98">
+<title>W3C: The w3c Query Language Workshop, December 1998, Boston, MA, USA</title>
+<year>1998</year>
+<url>http://www.w3.org/TandS/QL/QL98/</url>
+</www>
+
+<www mdate="2002-01-03" key="www/org/w3/TR/xquery">
+<editor>Donald D. Chamberlin</editor>
+<editor>Daniela Florescu</editor>
+<editor>Jonathan Robie</editor>
+<editor>J&eacute;r&ocirc;me Sim&eacute;on</editor>
+<editor>Mugur Stefanescu</editor>
+<title>XQuery: A Query Language for XML</title>
+<year>2001</year>
+<url>http://www.w3.org/TR/xquery</url>
+</www>
+
+<www mdate="2004-12-02" key="www/org/w3/TR/query-algebra">
+<editor>Peter Fankhauser</editor>
+<editor>Mary F. Fern&aacute;ndez</editor>
+<editor>Ashok Malhotra</editor>
+<editor>Michael Rys</editor>
+<editor>J&eacute;r&ocirc;me Sim&eacute;on</editor>
+<editor>Philip Wadler</editor>
+<title>The XML Query Algebra</title>
+<year>2001</year>
+<url>http://www.w3.org/TR/2000/WD-query-algebra-20001204/</url>
+</www>
+
+<www mdate="2002-01-03" key="www/org/w3/TR/REC-xml">
+<title>W3C: Extensible Markup Language (XML) 1.0</title>
+<url>http://www.w3.org/TR/REC-xml</url>
+</www>
+
+<www mdate="2002-01-03" key="www/org/w3/TR/xmlquery-use-cases">
+<editor>Donald D. Chamberlin</editor>
+<editor>Peter Fankhauser</editor>
+<editor>Massimo Marchiori</editor>
+<editor>Jonathan Robie</editor>
+<title>XML Query Use Cases</title>
+<year>2001</year>
+<url>http://www.w3.org/TR/xmlquery-use-cases</url>
+</www>
+
+<www mdate="2002-01-03" key="www/org/w3/TR/xmlquery-req">
+<editor>Donald D. Chamberlin</editor>
+<editor>Peter Fankhauser</editor>
+<editor>Massimo Marchiori</editor>
+<editor>Jonathan Robie</editor>
+<title>XML Query Requirements</title>
+<year>2001</year>
+<url>http://www.w3.org/TR/xmlquery-req</url>
+</www>
+
+<www mdate="2002-01-03" key="www/org/w3/TR/query-datamodel">
+<editor>Mary F. Fernandez</editor>
+<editor>Jonathan Robie</editor>
+<title>XML Query Data Model</title>
+<year>2001</year>
+<url>http://www.w3.org/TR/query-datamodel</url>
+</www>
+
+<www mdate="2002-01-03" key="www/org/w3/TR/NOTE-xml-ql">
+<author>Alin Deutsch</author>
+<author>Mary F. Fernandez</author>
+<author>Daniela Florescu</author>
+<author>Alon Y. Levy</author>
+<author>Dan Suciu</author>
+<title>Xml-ql: A Query Language for XML</title>
+<url>http://www.w3.org/TR/NOTE-xml-ql/</url>
+</www>
+
+<www mdate="2002-01-03" key="www/org/omg/uml-notation-guide">
+<title>OMG, UML Notation Guide, Version 1.1</title>
+<year>1997</year>
+<url>http://www.omg.org/techprocess/meetings/schedule/Technology_Adoptions.htm</url>
+</www>
+
+<www mdate="2002-01-03" key="www/org/mitre/future">
+<author>Arnon Rosenthal</author>
+<title>The Future of Classic Data Administration: Objects + Databases + CASE</title>
+<booktitle>SWEE</booktitle>
+<year>1998</year>
+<url>http://www.mitre.org/support/swee/rosenthal.html</url>
+</www>
+
+<www mdate="2002-01-03" key="www/org/oasis-open-cover-xml">
+<author>Robin Cover</author>
+<title>The SGML/XML Web Page</title>
+<url>http://www.oasis-open.org/cover/xml.html</url>
+</www>
+
+<www mdate="2002-01-03" key="www/org/tpc">
+<title>Transaction Processing Performance Council</title>
+<url>http://www.tpc.org</url>
+</www>
+
+<www mdate="2002-01-03" key="www/com/poet">
+<title>Poet</title>
+<url>http://www.poet.com</url>
+</www>
+
+<www mdate="2002-01-03" key="www/com/ontos">
+<title>Ontos</title>
+<url>http://www.ontos.com/</url>
+</www>
+
+<www mdate="2002-01-03" key="www/com/yahoo">
+<title>Yahoo</title>
+<url>http://www.yahoo.com/</url>
+</www>
+
+<www mdate="2002-01-03" key="www/com/altavista">
+<title>AltaVista</title>
+<url>http://www.altavista.com/</url>
+</www>
+
+<www mdate="2002-01-03" key="www/com/ibm/db2">
+<title>IBM DB2</title>
+<url>http://www.software.ibm.com/data/db2/</url>
+</www>
+
+<www mdate="2004-03-23" key="www/com/cdrom-zlib">
+<author>Jean-Loup Gailly</author>
+<author>Mark Adler</author>
+<title>Zlib Home Page (old location: http://quest.jpl.nasa.gov/zlib)</title>
+<url>http://www.cdrom.com/pub/infozip/zlib/</url>
+</www>
+
+<www mdate="2002-01-03" key="www/com/google">
+<title>Google</title>
+<url>http://www.google.com</url>
+</www>
+
+<www mdate="2002-01-03" key="www/com/metacrawler">
+<title>MetaCrawler</title>
+<url>http://www.metacrawler.com</url>
+</www>
+
+<www mdate="2002-01-03" key="www/com/odi">
+<title>Objectstore</title>
+<url>http://www.odi.com</url>
+</www>
+
+<www mdate="2002-01-03" key="www/com/persistence">
+<title>Persistence Software</title>
+<url>http://www.persistence.com/</url>
+</www>
+
+<www mdate="2002-01-03" key="www/com/sun-java">
+<title>Java Language Home Page</title>
+<url>http://java.sun.com/</url>
+</www>
+
+<www mdate="2002-01-03" key="www/com/objectivity-wp-choosing">
+<title>Objectivity White Paper: Choosing an Object Database</title>
+<year>1998</year>
+<url>http://www.objectivity.com/ObjectDatabase/WP/Choosing/Choosing.html</url>
+</www>
+<www mdate="2002-01-03" key="www/com/lycos">
+<title>Lycos</title>
+<url>http://www.lycos.com</url>
+</www>
+
+<www mdate="2002-01-03" key="www/com/versant">
+<title>Versant ODBMS</title>
+<url>http://www.versant.com</url>
+</www>
+
+<article mdate="2002-01-03" key="journals/ac/KandelS89">
+<author>Abraham Kandel</author>
+<author>Mordechay Schneider</author>
+<title>Fuzzy Sets and Their Applications to Artificial Intelligence.</title>
+<pages>69-105</pages>
+<year>1989</year>
+<volume>28</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac28.html#KandelS89</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Dasgupta82">
+<author>Subrata Dasgupta</author>
+<title>Computer Design and Description Languages.</title>
+<pages>91-154</pages>
+<year>1982</year>
+<volume>21</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac21.html#Dasgupta82</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Dasgupta89">
+<author>Subrata Dasgupta</author>
+<title>The Structure of Design Processes.</title>
+<pages>1-67</pages>
+<year>1989</year>
+<volume>28</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac28.html#Dasgupta89</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/DasguptaS85">
+<author>Subrata Dasgupta</author>
+<author>Bruce Shriver</author>
+<title>Developments in Firmware Engineering.</title>
+<pages>101-176</pages>
+<year>1985</year>
+<volume>24</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac24.html#DasguptaS85</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Wexelblat75">
+<author>Richard L. Wexelblat</author>
+<title>Programmed Control of Asynchronous Program Interrupts.</title>
+<pages>1-41</pages>
+<year>1975</year>
+<volume>13</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac13.html#Wexelblat75</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/GrudinP97">
+<author>Jonathan Grudin</author>
+<author>Steven E. Poltrock</author>
+<title>Computer Supported Cooperative Work and Groupware.</title>
+<pages>269-320</pages>
+<year>1997</year>
+<volume>45</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac45.html#GrudinP97</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Lo94">
+<author>Virginia Mary Lo</author>
+<title>Operating Systems Enhancements for Distributed Shared Memory.</title>
+<pages>191-237</pages>
+<year>1994</year>
+<volume>39</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac39.html#Lo94</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/IanninoM90">
+<author>Anthony Iannino</author>
+<author>John D. Musa</author>
+<title>Software Reliability.</title>
+<pages>85-170</pages>
+<year>1990</year>
+<volume>30</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac30.html#IanninoM90</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Reitwiesner60">
+<author>George W. Reitwiesner</author>
+<title>Binary Arithmetic.</title>
+<pages>231-308</pages>
+<year>1960</year>
+<volume>1</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac1.html#Reitwiesner60</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Fraenkel68">
+<author>Aviezri S. Fraenkel</author>
+<title>Legal Information Retrieval.</title>
+<pages>113-178</pages>
+<year>1968</year>
+<volume>9</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac9.html#Fraenkel68</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/PoppelbaumDGO87">
+<author>W. J. Poppelbaum</author>
+<author>Apostolos Dollas</author>
+<author>J. B. Glickman</author>
+<author>C. O'Toole</author>
+<title>Unary Processing.</title>
+<pages>47-92</pages>
+<year>1987</year>
+<volume>26</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac26.html#PoppelbaumDGO87</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/ConteDS85">
+<author>Samuel D. Conte</author>
+<author>Hubert E. Dunsmore</author>
+<author>Vincent Yun Shen</author>
+<title>Software Effort Estimation and Productivity.</title>
+<pages>1-60</pages>
+<year>1985</year>
+<volume>24</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac24.html#ConteDS85</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Andriole90">
+<author>Stephen J. Andriole</author>
+<title>Command and Control Information Systems Engineering: Progress and Prospects.</title>
+<pages>1-98</pages>
+<year>1990</year>
+<volume>31</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac31.html#Andriole90</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/YousifTD95">
+<author>Mazin S. Yousif</author>
+<author>Matthew Thazhuthaveetil</author>
+<author>Chita R. Das</author>
+<title>Cache Coherence in Multiprocessors: A Survey.</title>
+<pages>127-179</pages>
+<year>1995</year>
+<volume>40</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac40.html#YousifTD95</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/GulatiBI91">
+<author>Sandeep Gulati</author>
+<author>Jacob Barhen</author>
+<author>S. Sitharama Iyengar</author>
+<title>Neurocomputing Formalisms for Computational Learning and Machine Intelligence.</title>
+<pages>173-245</pages>
+<year>1991</year>
+<volume>33</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac33.html#GulatiBI91</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Bull97">
+<author>Glen Bull</author>
+<title>Technology and Schools.</title>
+<pages>321-356</pages>
+<year>1997</year>
+<volume>45</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac45.html#Bull97</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/BuchananD83">
+<author>Bruce G. Buchanan</author>
+<author>Richard O. Duda</author>
+<title>Principles of Rule-Based Expert Systems.</title>
+<pages>163-216</pages>
+<year>1983</year>
+<volume>22</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac22.html#BuchananD83</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/FleckensteinGHMMPRW92">
+<author>Charles J. Fleckenstein</author>
+<author>Helen Gill</author>
+<author>David Hemmendinger</author>
+<author>Carolyn McCreary</author>
+<author>John D. McGregor</author>
+<author>Roy P. Pargas</author>
+<author>Arthur M. Riehl</author>
+<author>Virgil Wallentine</author>
+<title>Multiprocessing.</title>
+<pages>255-324</pages>
+<year>1992</year>
+<volume>35</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac35.html#FleckensteinGHMMPRW92</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/DamR70">
+<author>Andries van Dam</author>
+<author>David E. Rice</author>
+<title>Computers and Publishing: Writing, Editing, and Printing.</title>
+<pages>145-174</pages>
+<year>1970</year>
+<volume>10</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac10.html#DamR70</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/DayB93">
+<author>Mary Carol Day</author>
+<author>Susan J. Boyce</author>
+<title>Human Factors in Human-Computer System Design.</title>
+<pages>333-430</pages>
+<year>1993</year>
+<volume>36</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac36.html#DayB93</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Codd62">
+<author>E. F. Codd</author>
+<title>Multiprogramming.</title>
+<pages>77-153</pages>
+<year>1962</year>
+<volume>3</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac3.html#Codd62</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Brooks70">
+<author>Frederick P. Brooks Jr.</author>
+<title>Computer-Man Communication: Using Graphics in the Instructional Process.</title>
+<pages>129-143</pages>
+<year>1970</year>
+<volume>10</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac10.html#Brooks70</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Gupta84">
+<author>G. K. Gupta</author>
+<title>International Developments in Information Privacy.</title>
+<pages>253-294</pages>
+<year>1984</year>
+<volume>23</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac23.html#Gupta84</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Draper88">
+<author>James Stark Draper</author>
+<title>Military Information Processing.</title>
+<pages>1-67</pages>
+<year>1988</year>
+<volume>27</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac27.html#Draper88</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/SaltzACDEHHMPSSU97">
+<author>Joel H. Saltz</author>
+<author>Gagan Agrawal</author>
+<author>Chialin Chang</author>
+<author>Raja Das</author>
+<author>Guy Edjlali</author>
+<author>Paul Havlak</author>
+<author>Yuan-Shin Hwang</author>
+<author>Bongki Moon</author>
+<author>Ravi Ponnusamy</author>
+<author>Shamik D. Sharma</author>
+<author>Alan Sussman</author>
+<author>Mustafa Uysal</author>
+<title>Programming Irregular Applications: Runtime Support, Compilation and Tools.</title>
+<pages>105-153</pages>
+<year>1997</year>
+<volume>45</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac45.html#SaltzACDEHHMPSSU97</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Koczela68">
+<author>L. J. Koczela</author>
+<title>The Distrubuted Processor Organization.</title>
+<pages>285-353</pages>
+<year>1968</year>
+<volume>9</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac9.html#Koczela68</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/CrossCM92">
+<author>James H. Cross II</author>
+<author>Elliot J. Chikofsky</author>
+<author>Charles H. May Jr.</author>
+<title>Reverse Engineering.</title>
+<pages>199-254</pages>
+<year>1992</year>
+<volume>35</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac35.html#CrossCM92</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Biermann76">
+<author>Alan W. Biermann</author>
+<title>Approaches to Automatic Programming.</title>
+<pages>1-63</pages>
+<year>1976</year>
+<volume>15</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac15.html#Biermann76</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Gass61">
+<author>Saul I. Gass</author>
+<title>Recent Developments in Linear Programming.</title>
+<pages>295-377</pages>
+<year>1961</year>
+<volume>2</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac2.html#Gass61</url>
+</article>
+<article mdate="2002-01-03" key="journals/ac/Gear80">
+<author>C. William Gear</author>
+<title>Numerical Software: Science or Alchemy?</title>
+<pages>229-248</pages>
+<year>1980</year>
+<volume>19</volume>
+<journal>Advances in Computers</journal>
+<url>db/journals/ac/ac19.html#Gear80</url>
+</article>
+</dblp>
