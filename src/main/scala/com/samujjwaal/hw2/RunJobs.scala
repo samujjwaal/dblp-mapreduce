@@ -1,12 +1,12 @@
 package com.samujjwaal.hw2
 
-import com.samujjwaal.hw2.mappers.{CoAuthorCountMapper, VenueOneAuthorMapper, VenueTopPubMapper, VenueTopTenAuthorsMapper}
+import com.samujjwaal.hw2.mappers.{VenueOneAuthorMapper, VenueTopPubMapper, VenueTopTenAuthorsMapper}
 import com.samujjwaal.hw2.reducers._
 import com.samujjwaal.hw2.util.XmlInputFormatWithMultipleTags
 import com.typesafe.config.{Config, ConfigFactory}
 import org.apache.hadoop.conf.Configuration
 import org.apache.hadoop.fs.Path
-import org.apache.hadoop.io.{IntWritable, Text}
+import org.apache.hadoop.io.Text
 import org.apache.hadoop.mapreduce.Job
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat
 import org.apache.hadoop.mapreduce.lib.output.{FileOutputFormat, TextOutputFormat}
@@ -46,6 +46,42 @@ object RunJobs {
       venuePubOneAuthor.setOutputValueClass(classOf[Text])
       FileInputFormat.addInputPath(venuePubOneAuthor, new Path(args(1)))
       FileOutputFormat.setOutputPath(venuePubOneAuthor, new Path(conf.getString("master_output_path")+conf.getString("Job1_output_path")))
+      logger.info("Starting up MapReduce job..")
+      venuePubOneAuthor.waitForCompletion(true)
+    }
+
+    if (args(0) == "2") {
+      val venuePubOneAuthor = Job.getInstance(configuration, "List of publications with only One author for each venue")
+      venuePubOneAuthor.setJarByClass(this.getClass)
+      //Setting mapper
+      venuePubOneAuthor.setMapperClass(classOf[VenueOneAuthorMapper])
+      venuePubOneAuthor.setInputFormatClass(classOf[XmlInputFormatWithMultipleTags])
+      //setting reducer
+      venuePubOneAuthor.setReducerClass(classOf[VenueOneAuthorReducer])
+      venuePubOneAuthor.setMapOutputKeyClass(classOf[Text])
+      venuePubOneAuthor.setMapOutputValueClass(classOf[Text])
+      venuePubOneAuthor.setOutputKeyClass(classOf[Text])
+      venuePubOneAuthor.setOutputValueClass(classOf[Text])
+      FileInputFormat.addInputPath(venuePubOneAuthor, new Path(args(1)))
+      FileOutputFormat.setOutputPath(venuePubOneAuthor, new Path(conf.getString("master_output_path")+conf.getString("Job2_output_path")))
+      logger.info("Starting up MapReduce job..")
+      venuePubOneAuthor.waitForCompletion(true)
+    }
+
+    if (args(0) == "3") {
+      val venuePubOneAuthor = Job.getInstance(configuration, "Publication with highest number of authors at each venue")
+      venuePubOneAuthor.setJarByClass(this.getClass)
+      //Setting mapper
+      venuePubOneAuthor.setMapperClass(classOf[VenueTopPubMapper])
+      venuePubOneAuthor.setInputFormatClass(classOf[XmlInputFormatWithMultipleTags])
+      //setting reducer
+      venuePubOneAuthor.setReducerClass(classOf[VenueTopPubReducer])
+      venuePubOneAuthor.setMapOutputKeyClass(classOf[Text])
+      venuePubOneAuthor.setMapOutputValueClass(classOf[Text])
+      venuePubOneAuthor.setOutputKeyClass(classOf[Text])
+      venuePubOneAuthor.setOutputValueClass(classOf[Text])
+      FileInputFormat.addInputPath(venuePubOneAuthor, new Path(args(1)))
+      FileOutputFormat.setOutputPath(venuePubOneAuthor, new Path(conf.getString("master_output_path")+conf.getString("Job3_output_path")))
       logger.info("Starting up MapReduce job..")
       venuePubOneAuthor.waitForCompletion(true)
     }
