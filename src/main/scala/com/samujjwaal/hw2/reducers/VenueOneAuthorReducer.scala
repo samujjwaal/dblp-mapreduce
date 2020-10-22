@@ -8,6 +8,7 @@ import org.slf4j.{Logger, LoggerFactory}
 
 import scala.collection.mutable
 import scala.jdk.CollectionConverters.IterableHasAsScala
+
 /**
  * Reducer class to populate list of publications with only 1 author for each venue
  */
@@ -23,8 +24,8 @@ class VenueOneAuthorReducer extends Reducer[Text, Text, Text, Text] {
       pubList += pub.toString
     })
 
-    logger.info("Venue: {}, Publication list: {}", key.toString,pubList.toList)
-    context.write(new Text(key), new Text(pubList.toList.toString().replaceAll(",",";")))
+    logger.info("Venue: {}, Publication list: {}", key.toString, pubList.toList)
+    context.write(new Text(key), new Text(pubList.toList.toString().replaceAll(",", ";")))
 
     // reducer outputs key:<venue name> & value:<list of publications>
   }

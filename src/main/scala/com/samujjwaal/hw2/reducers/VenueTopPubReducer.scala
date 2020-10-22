@@ -30,7 +30,7 @@ class VenueTopPubReducer extends Reducer[Text, Text, Text, Text] {
     // sort hashmap and get publication name with max author count
     val topPub = mutable.LinkedHashMap(map.toSeq.sortWith(_._2 > _._2): _*).head._1
 
-    logger.info("Venue: {}, Publication: {}",key.toString,topPub)
+    logger.info("Venue: {}, Publication: {}", key.toString, topPub)
     context.write(new Text(key), new Text(topPub))
 
     // reducer outputs key:<venue name> & value:<publication name>

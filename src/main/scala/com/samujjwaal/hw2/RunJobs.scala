@@ -45,7 +45,7 @@ object RunJobs {
       venuePubOneAuthor.setOutputKeyClass(classOf[Text])
       venuePubOneAuthor.setOutputValueClass(classOf[Text])
       FileInputFormat.addInputPath(venuePubOneAuthor, new Path(args(1)))
-      FileOutputFormat.setOutputPath(venuePubOneAuthor, new Path(conf.getString("master_output_path")+conf.getString("Job1_output_path")))
+      FileOutputFormat.setOutputPath(venuePubOneAuthor, new Path(conf.getString("master_output_path") + conf.getString("Job1_output_path")))
       logger.info("Starting up MapReduce job..")
       venuePubOneAuthor.waitForCompletion(true)
     }
@@ -63,7 +63,7 @@ object RunJobs {
       venuePubOneAuthor.setOutputKeyClass(classOf[Text])
       venuePubOneAuthor.setOutputValueClass(classOf[Text])
       FileInputFormat.addInputPath(venuePubOneAuthor, new Path(args(1)))
-      FileOutputFormat.setOutputPath(venuePubOneAuthor, new Path(conf.getString("master_output_path")+conf.getString("Job2_output_path")))
+      FileOutputFormat.setOutputPath(venuePubOneAuthor, new Path(conf.getString("master_output_path") + conf.getString("Job2_output_path")))
       logger.info("Starting up MapReduce job..")
       venuePubOneAuthor.waitForCompletion(true)
     }
@@ -81,7 +81,7 @@ object RunJobs {
       venuePubOneAuthor.setOutputKeyClass(classOf[Text])
       venuePubOneAuthor.setOutputValueClass(classOf[Text])
       FileInputFormat.addInputPath(venuePubOneAuthor, new Path(args(1)))
-      FileOutputFormat.setOutputPath(venuePubOneAuthor, new Path(conf.getString("master_output_path")+conf.getString("Job3_output_path")))
+      FileOutputFormat.setOutputPath(venuePubOneAuthor, new Path(conf.getString("master_output_path") + conf.getString("Job3_output_path")))
       logger.info("Starting up MapReduce job..")
       venuePubOneAuthor.waitForCompletion(true)
     }
@@ -99,7 +99,7 @@ object RunJobs {
       authorCount1.setOutputKeyClass(classOf[Text])
       authorCount1.setOutputValueClass(classOf[Text])
       FileInputFormat.addInputPath(authorCount1, new Path(args(1)))
-      FileOutputFormat.setOutputPath(authorCount1, new Path(conf.getString("master_output_path")+conf.getString("Job4_output_path")))
+      FileOutputFormat.setOutputPath(authorCount1, new Path(conf.getString("master_output_path") + conf.getString("Job4_output_path")))
       logger.info("Starting up MapReduce job..")
       authorCount1.waitForCompletion(true)
     }
@@ -117,7 +117,7 @@ object RunJobs {
       authorCount2.setOutputKeyClass(classOf[Text])
       authorCount2.setOutputValueClass(classOf[Text])
       FileInputFormat.addInputPath(authorCount2, new Path(args(1)))
-      FileOutputFormat.setOutputPath(authorCount2, new Path(conf.getString("master_output_path")+conf.getString("Job5_output_path")))
+      FileOutputFormat.setOutputPath(authorCount2, new Path(conf.getString("master_output_path") + conf.getString("Job5_output_path")))
       logger.info("Starting up MapReduce job..")
       authorCount2.waitForCompletion(true)
     }

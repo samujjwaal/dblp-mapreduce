@@ -23,7 +23,7 @@ class VenueTopTenAuthorsReducer extends Reducer[Text, Text, Text, Text] {
     // add author name and no of times author appears in venue(key) to hashmap
     values.asScala.foreach(author => {
       val authorName = removePunctuations(author.toString.split(",").head)
-      val authorCount = removePunctuations(author.toString.split(",")(1)).toInt  // always equal to 1
+      val authorCount = removePunctuations(author.toString.split(",")(1)).toInt // always equal to 1
 
       // add or update hashmap by checking if key already exists
       map.updateWith(authorName) {
@@ -35,8 +35,8 @@ class VenueTopTenAuthorsReducer extends Reducer[Text, Text, Text, Text] {
     // sort hashmap in descending order by author count and select top 10
     val topTenAuthors = mutable.LinkedHashMap(map.toSeq.sortWith(_._2 > _._2): _*).take(10).keys.toList
 
-    logger.info("Venue: {}, Authors: {}",key.toString,topTenAuthors)
-    context.write(new Text(key), new Text(topTenAuthors.toString().replaceAll(",",";")))
+    logger.info("Venue: {}, Authors: {}", key.toString, topTenAuthors)
+    context.write(new Text(key), new Text(topTenAuthors.toString().replaceAll(",", ";")))
 
     // reducer outputs key:<venue name> & value:<list of authors>
   }

@@ -38,7 +38,7 @@ class ZeroCoAuthorCountReducer extends Reducer[Text, IntWritable, Text, Text] {
     // filter hashmap by coauthor count equals 0 and select 100
     val outputMap = map.filter(_._2 == 0).take(100)
 
-    logger.info("Authors: {}",outputMap.keys)
+    logger.info("Authors: {}", outputMap.keys)
     outputMap.foreach(record => {
       context.write(new Text(record._1), new Text(record._2.toString))
     })

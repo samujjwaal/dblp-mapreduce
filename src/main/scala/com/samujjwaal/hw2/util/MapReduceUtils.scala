@@ -18,17 +18,6 @@ object MapReduceUtils {
   }
 
   /**
-   * Extract all the values corresponding to the XML tag denoted by <xmlTag> for a block of XML text xmlBlock
-   */
-  def getXMLTagContent(xmlBlock: Elem, xmlTag: String): List[String] =
-    (xmlBlock \\ xmlTag).map(content => content.text.toLowerCase.trim).toList
-
-  /**
-   * Get the type of publication of a XML record
-   */
-  def getPubType(xmlBlock: Elem): String = xmlBlock.child.head.label
-
-  /**
    * Get the author type of a XML record
    */
   def getAuthorType(xmlBlock: Elem): String = getPubType(xmlBlock) match {
@@ -44,6 +33,12 @@ object MapReduceUtils {
   }
 
   /**
+   * Extract all the values corresponding to the XML tag denoted by <xmlTag> for a block of XML text xmlBlock
+   */
+  def getXMLTagContent(xmlBlock: Elem, xmlTag: String): List[String] =
+    (xmlBlock \\ xmlTag).map(content => content.text.toLowerCase.trim).toList
+
+  /**
    * Get the venue of publication of a XML record
    */
   def getPubVenueType(xmlBlock: Elem): String = getPubType(xmlBlock) match {
@@ -56,6 +51,11 @@ object MapReduceUtils {
     case "proceedings" => "booktitle"
     case "www" => "www"
   }
+
+  /**
+   * Get the type of publication of a XML record
+   */
+  def getPubType(xmlBlock: Elem): String = xmlBlock.child.head.label
 
   /**
    * Remove punctuations from a string

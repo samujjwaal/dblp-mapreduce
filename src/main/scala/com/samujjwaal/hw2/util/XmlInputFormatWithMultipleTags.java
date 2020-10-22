@@ -20,7 +20,7 @@ import java.util.stream.IntStream;
 /**
  * Mahout's XMLInputFormat with support for multiple input and output tags referred from
  * https://github.com/Mohammed-siddiq/hadoop-XMLInputFormatWithMultipleTags
- *
+ * <p>
  * An implementation of XML input format.
  * Supports multiple start and end tags sent from the configuration.
  * start tags and end tags are delimited by ,(comma)
