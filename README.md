@@ -99,7 +99,7 @@ The map/reduce jobs created are :
 
     `<article ,<book ,<incollection ,<inproceedings ,<mastersthesis ,<proceedings ,<phdthesis ,<www `
 
-  ### MapReduce Jobs
+### MapReduce Jobs
 
 - ### Job 1
 
