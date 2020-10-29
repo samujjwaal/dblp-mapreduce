@@ -14,8 +14,6 @@ The map/reduce jobs created are :
 4. List of top 100 authors who publish with most co-authors(in desc. order)
 5. List of 100 authors who publish without co-authors
 
-
-
 ## Instructions to Execute
 
 - Generate executable jar file
@@ -58,7 +56,7 @@ The map/reduce jobs created are :
 
     `hadoop jar hw2_dblp_mapred.jar job_num input`
 
-    - The argument ‘*job_num*’ has to be provided by user and can have possible values of 1/2/3/4/5 corresponding to the job being performed as described [above]() and [below]()
+    - The argument ‘*job_num*’ has to be provided by user and can have possible values of 1/2/3/4/5 corresponding to the job being performed as described [above](#overview) and [below](#mapreduce-jobs)
 
     - The output folder for the job results have been set in the config file ‘*JobSpec.conf*’ as follows:
 
