@@ -1,6 +1,6 @@
 package com.samujjwaal.hw2
 
-import com.samujjwaal.hw2.mappers.{CoAuthorCountMapper, VenueOneAuthorMapper, VenueTopPubMapper, VenueTopTenAuthorsMapper}
+import com.samujjwaal.hw2.mappers._
 import com.samujjwaal.hw2.reducers._
 import com.samujjwaal.hw2.util.XmlInputFormatWithMultipleTags
 import com.typesafe.config.{Config, ConfigFactory}
@@ -87,13 +87,15 @@ object RunJobs {
     }
 
     if (args(0) == "4") {
+      // for selecting reducer cleanup operation
+      configuration.set("jobNo",args(0))
       val authorCount1 = Job.getInstance(configuration, "List of top 100 authors who publish with most co-authors(in desc. order)")
       authorCount1.setJarByClass(this.getClass)
       //Setting mapper
       authorCount1.setMapperClass(classOf[CoAuthorCountMapper])
       authorCount1.setInputFormatClass(classOf[XmlInputFormatWithMultipleTags])
       //setting reducer
-      authorCount1.setReducerClass(classOf[MostCoAuthorCountReducer])
+      authorCount1.setReducerClass(classOf[CoAuthorCountReducer])
       authorCount1.setMapOutputKeyClass(classOf[Text])
       authorCount1.setMapOutputValueClass(classOf[IntWritable])
       authorCount1.setOutputKeyClass(classOf[Text])
@@ -105,13 +107,15 @@ object RunJobs {
     }
 
     if (args(0) == "5") {
+      // for selecting reducer cleanup operation
+      configuration.set("jobNo",args(0))
       val authorCount2 = Job.getInstance(configuration, "List of 100 authors who publish without co-authors")
       authorCount2.setJarByClass(this.getClass)
       //Setting mapper
       authorCount2.setMapperClass(classOf[CoAuthorCountMapper])
       authorCount2.setInputFormatClass(classOf[XmlInputFormatWithMultipleTags])
       //setting reducer
-      authorCount2.setReducerClass(classOf[ZeroCoAuthorCountReducer])
+      authorCount2.setReducerClass(classOf[CoAuthorCountReducer])
       authorCount2.setMapOutputKeyClass(classOf[Text])
       authorCount2.setMapOutputValueClass(classOf[IntWritable])
       authorCount2.setOutputKeyClass(classOf[Text])
