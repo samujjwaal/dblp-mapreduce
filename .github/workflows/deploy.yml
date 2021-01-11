@@ -1,4 +1,4 @@
-name: Scala CI
+name: Upload JAR Release
 
 on:
   push:
@@ -8,14 +8,43 @@ on:
 
 jobs:
   build:
-
+    name: Run Tests and Build
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v2
-    - name: Set up JDK 1.8
-      uses: actions/setup-java@v1
-      with:
-        java-version: 1.8
-    - name: Run tests
-      run: sbt test
+      - name: Check out the code
+        uses: actions/checkout@v2
+      - name: Set up JDK 1.8
+        uses: actions/setup-java@v1
+        with:
+          java-version: 1.8
+      - name: Run test cases
+        run: sbt test
+      - name: Build JAR
+        run: sbt clean compile assembly
+
+  release:
+    name: Upload Release Asset
+    runs-on: ubuntu-latest
+    needs: [build]
+    steps:
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: Release ${{ github.ref }}
+          draft: false
+          prerelease: false
+      - name: Upload Release Asset
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./target/scala-2.13/hw2_dblp_mapred.jar
+          asset_name: dblp_mapreduce.jar
+          asset_content_type: application/jar
+
+
