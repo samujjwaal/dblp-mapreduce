@@ -43,7 +43,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./target/scala-2.13/hw2_dblp_mapred.jar
+          asset_path: hw2_dblp_mapred.jar
           asset_name: dblp_mapreduce.jar
           asset_content_type: application/jar
 
