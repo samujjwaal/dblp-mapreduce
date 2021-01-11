@@ -42,10 +42,7 @@ class CoAuthorCountReducer extends Reducer[Text, IntWritable, Text, Text] {
       // sort hashmap in descending order by coauthor count of each author and select top 100
       val sortedMap = mutable.LinkedHashMap(map.toSeq.sortWith(_._2 > _._2): _*).take(100)
 
-      logger.info("Authors: {}", sortedMap.keys)
-      sortedMap.foreach(record => {
-        context.write(new Text(record._1), new Text(record._2.toString))
-      })
+      writeOutput(sortedMap, context)
 
       // reducer outputs key:<author name> & value:<max. number of coauthors>
     }
@@ -56,13 +53,18 @@ class CoAuthorCountReducer extends Reducer[Text, IntWritable, Text, Text] {
       // filter hashmap by coauthor count equals 0 and select 100
       val outputMap = map.filter(_._2 == 0).take(100)
 
-      logger.info("Authors: {}", outputMap.keys)
-      outputMap.foreach(record => {
-        context.write(new Text(record._1), new Text(record._2.toString))
-      })
+      writeOutput(outputMap,context)
 
       // reducer outputs key:<author name> & value:<0>
     }
 
   }
+
+  def writeOutput(map: mutable.Map[String, Integer], context: Reducer[Text, IntWritable, Text, Text]#Context): Unit = {
+    logger.info("Authors: {}", map.keys)
+    map.foreach(record => {
+      context.write(new Text(record._1), new Text(record._2.toString))
+    })
+  }
+
 }
