@@ -368,11 +368,11 @@ http://localhost:9870/dfshealth.html#tab-overview
 
 The web UI looks like this:
 
-![Namenode Web UI](https://i.ibb.co/W0tHKWx/namenode.png)
+![Namenode Web UI](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w6uivvkwcey9kck3yhqz.png)
 
 Data nodes information can be also viewd through the *Datanodes* menu link:
 
-![Datanodes Web UI](https://i.ibb.co/4YhkTBp/datanode.png)
+![Datanodes Web UI](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/05x0zpl6097yjkza3um0.png)
 
 ## Run YARN daemon
 
@@ -410,7 +410,7 @@ http://localhost:8088/cluster
 
 The web UI looks like this:
 
-![YARN Web UI](https://i.ibb.co/T8bhkZW/yarn-ui.png)
+![YARN Web UI](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sjui5glfo7hdt5kjset6.png)
 
 Execution of all the Hadoop applications can be monitored through this web portal.
 
@@ -441,6 +441,8 @@ Try out an example application: [Hadoop MapReduce computational model to perform
 If you encounter any issues while following the steps, please post a comment and I will try my best to help.
 
 ### Further References
+
+[Hadoop Installation on Windows 10 using WSL](https://dev.to/samujjwaal/hadoop-installation-on-windows-10-using-wsl-2ck1)
 
 [Install Hadoop 3.3.0 on Windows 10 using WSL](https://kontext.tech/column/hadoop/445/install-hadoop-330-on-windows-10-using-wsl)
 
